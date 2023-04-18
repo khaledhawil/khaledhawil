@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **khaledhawil91@gmail.com**
 
-- 📄 Know about my experiences [Linux,Git,Bash, Scripting, Docker, k8s, Python,Apache,Nginx Mongodb,MySql,Vagrant,](Linux,Git,Bash, Scripting, Docker, k8s, Python,Apache,Nginx Mongodb,MySql,Vagrant,)
+- 📄 Know about my experiences (Linux,Git,Bash, Scripting, Docker, k8s, Python,Apache,Nginx Mongodb,MySql,Vagrant,)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
