@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Hawil</h1>
 <h3 align="center">A DevOps Engineer</h3>
 
-<p align="left"> <img src="https://img.freepik.com/premium-vector/devops-software-development-methodology-dev-ops-software-vector-stock-illustration_100456-11643.jpg" /> </p>
+<p align="left"> <img src="[https://img.freepik.com/premium-vector/devops-software-development-methodology-dev-ops-software-vector-stock-illustration_100456-11643.jpg](https://res.cloudinary.com/practicaldev/image/fetch/s--UvSBDLBK--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20views&color=0e75b6&style=flat" alt="khaledhawil" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledhawil" alt="khaledhawil" /></a> </p>
