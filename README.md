@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/khaledhawill" target="blank"><img src="https://img.shields.io/twitter/follow/khaledhawill?logo=twitter&style=for-the-badge" alt="khaledhawill" /></a> </p>
 
-- 🌱 I’m currently learning **K8s, Ansible, AWS ,Terraform,Jenkins**
+- 🌱 I’m currently learning **Terraform,Jenkins**
 
 - 👨‍💻 All of my projects are available at [https://github.com/khaledhawil](https://github.com/khaledhawil)
 
