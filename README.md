@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Terraform,Jenkins**
 
-- 👨‍💻 All of my projects are available at [https://github.com/khaledhawil]([https://github.com/khaledhawil](https://github.com/khaledhawil?tab=repositories))
+- 👨‍💻 All of my projects are available at [https://github.com/khaledhawil/PathToDevOps/tree/master/projects]([https://github.com/khaledhawil?tab=repositories](https://github.com/khaledhawil/PathToDevOps/tree/master/projects)
 
 - 📝 I regularly write articles on [https://www.linkedin.com/in/khaledhawil/](https://www.linkedin.com/in/khaledhawil/)
 
