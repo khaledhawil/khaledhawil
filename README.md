@@ -18,7 +18,7 @@
 
 - 📄 Know about my experiences [Resume](https://docs.google.com/document/d/182oLlqNbVKkd32lyr9YjPkjaM3vsactcAlKvfxLSdp4/edit?tab=t.0)
 
-- 📄 Know about my experiences (Linux,Git,Bash, Scripting, Docker, k8s, Python,Apache,Nginx Mongodb,MySql,Vagrant,)
+- 📄 My Skills **(Linux Adminstaration, Git, Bash Scripting, Docker, k8s, AWS, Python, Apache, Nginx, Mongodb,MySql, Vagrant,)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
