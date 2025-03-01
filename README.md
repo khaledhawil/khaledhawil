@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [Projects](https://github.com/khaledhawil/PathToDevOps/tree/master/projects)
 
-- 📝 I regularly write articles on [https://www.linkedin.com/in/khaledhawil/](https://www.linkedin.com/in/khaledhawil/)
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/khaledhawil/)
 
 - 📫 How to reach me **khaledhawil91@gmail.com**
 
