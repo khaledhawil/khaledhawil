@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **khaledhawil91@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/182oLlqNbVKkd32lyr9YjPkjaM3vsactcAlKvfxLSdp4/edit?tab=t.0)
+- 📄 Know about my experiences [Resume](https://github.com/khaledhawil/khaledhawil/blob/main/KhaledHawil-CV-DevOps.pdf)
 
 - 📄 My Skills **(Linux Adminstaration, Git, Bash Scripting, Docker, k8s, AWS, Python, Apache, Nginx, Mongodb,MySql, Vagrant,)**
 
