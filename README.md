@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Khaled%20Hawil&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Junior%20DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20Systems%&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Khaled%20Hawil&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20Systems%&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
@@ -26,7 +26,7 @@
 <div style="background: linear-gradient(135deg, #667eea 20%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px 0;">
 
 ### <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg> **Professional Summary**
-**Junior DevOps Engineer** hands-on experience in **AWS cloud infrastructure**, **Linux system administration**, and **CI/CD pipeline development**. Passionate about automation, infrastructure as code, and continuous learning. Strong foundation in **containerization**, **monitoring**, and **DevOps best practices** with a focus on delivering reliable and scalable solutions.
+**DevOps Engineer** hands-on experience in **AWS cloud infrastructure**, **Linux system administration**, and **CI/CD pipeline development**. Passionate about automation, infrastructure as code, and continuous learning. Strong foundation in **containerization**, **monitoring**, and **DevOps best practices** with a focus on delivering reliable and scalable solutions.
 
 </div>
 
@@ -41,7 +41,7 @@
 
 ### <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg> **Key Achievements**
 <img src="https://img.shields.io/badge/System_Uptime-98.5%25-00C851?style=flat-square&logo=uptime-robot&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Automation-15%2B_Scripts-FF6B35?style=flat-square&logo=automation&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Automation-_Scripts-FF6B35?style=flat-square&logo=automation&logoColor=white"/> 
 <img src="https://img.shields.io/badge/Deployments-50%2B_Successful-28A745?style=flat-square&logo=rocket&logoColor=white"/>
 
 </div>
