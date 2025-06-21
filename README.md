@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG4cofile-displaybackgroundimage-shrink_350_1400/B4DZaINeHiHQAY-/0/1746041962234?e=1753315200&v=beta&t=VVHS8nlJ-UvTalf984TWu2kKnWr-rajc-KOzz5epeOk" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG4cUCLl6xxKQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaINeHiHQAY-/0/1746041962234?e=1755734400&v=beta&t=jpkBQzRqlJAFLvJrpZd5GxvRsFQuUxCpkZlSVcdKtgo" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
 </div>
 
 <h1 align="center">
@@ -83,8 +83,8 @@ interests:
 
 <div align="center">
 
-### ☁️ **Cloud & Infrastructure**
-<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,nginx,linux,git" />
+### ☁️ **Cloud & DevOps**
+<img src="https://skillicons.dev/icons?i=linux,bash,git,github,aws,terraform,ansible,docker,kubernetes,jenkins,grafana,nginx" />
 
 ### 💻 **Programming & Scripting**  
 <img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" />
