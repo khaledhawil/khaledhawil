@@ -1,85 +1,134 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Khaled%20Hawil&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Senior%20DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Infrastructure%20Specialist&descAlignY=55&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=300&section=header&text=Khaled%20Hawil&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Junior%20DevOps%20Engineer%20%7C%20AWS%20Cloud%20%7C%20Linux%20Systems%&descAlignY=55&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=0080FF&center=true&vCenter=true&width=800&lines=DevOps+Engineer;Cloud+Infrastructure+Architect;Linux+Systems;Automation+%26+CI%2FCD;Multi-Cloud+Solutions+Designer" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=900&lines=DevOps+Engineer;AWS+Cloud+Enthusiast;Linux+Systems+Administrator;CI%2FCD+Pipeline+Builder;Infrastructure+Automation+Specialist;DevOps+Tools+Expert" />
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Specialization-DevOps%20%26%20Cloud-0080FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a1a" alt="Specialization" />
-  <img src="https://img.shields.io/badge/Focus-Enterprise%20Solutions-0080FF?style=for-the-badge&logo=enterprise&logoColor=white&labelColor=1a1a1a" alt="Focus" />
-  <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20Views&color=0080FF&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Experience-1%2B%20Years-FF6B35?style=for-the-badge&logo=calendar&logoColor=white&labelColor=1a1a1a" alt="Experience" />
+  <img src="https://img.shields.io/badge/Specialization-DevOps%20%26%20AWS-FF6B35?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=1a1a1a" alt="Specialization" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Linux-FF6B35?style=for-the-badge&logo=linux&logoColor=white&labelColor=1a1a1a" alt="Focus" />
+  <img src="https://img.shields.io/badge/Level-Growing%20Fast-FF6B35?style=for-the-badge&logo=trending-up&logoColor=white&labelColor=1a1a1a" alt="Level" />
+  <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20Views&color=FF6B35&style=for-the-badge&labelColor=1a1a1a" alt="Profile Views" />
 </div>
 
 <br/>
 
-<div style="background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-<h2 align="center" style="color: white; margin: 0; font-size: 28px;"><img src="https://img.icons8.com/fluency/30/000000/user.png"/> Executive Profile</h2>
+<div style="background: linear-gradient(135deg, #FF6B35 10%, #F7931E 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 15px 35px rgba(247,147,30,0.4); border: 2px solid rgba(255,255,255,0.1);">
+<h2 align="center" style="color: white; margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2C13.1 2 14 2.9 14 4C14 5.1 13.1 6 12 6C10.9 6 10 5.1 10 4C10 2.9 10.9 2 12 2ZM21 9V7L15 1.5V6H9V1.5L3 7V9H21ZM12 8C14.8 8 17 10.2 17 13C17 15.8 14.8 18 12 18C9.2 18 7 15.8 7 13C7 10.2 9.2 8 12 8Z"/></svg> Professional Profile</h2>
 </div>
 
 <table>
 <tr>
 <td width="65%">
+<div style="background: linear-gradient(135deg, #667eea 20%, #764ba2 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px 0;">
 
-### <img src="https://img.icons8.com/color/24/000000/about.png"/> **Professional Summary**
-**Senior DevOps Engineer** with 5+ years of expertise in designing, implementing, and managing enterprise-scale cloud infrastructure. Proven track record in **multi-cloud environments**, **container orchestration**, and **CI/CD automation**. Specialist in **Linux system administration**, **infrastructure as code**, and **security-first DevOps practices**.
+### <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg> **Professional Summary**
+**Junior DevOps Engineer** hands-on experience in **AWS cloud infrastructure**, **Linux system administration**, and **CI/CD pipeline development**. Passionate about automation, infrastructure as code, and continuous learning. Strong foundation in **containerization**, **monitoring**, and **DevOps best practices** with a focus on delivering reliable and scalable solutions.
 
-### <img src="https://img.icons8.com/color/24/000000/target.png"/> **Core Value Proposition**
-*Delivering scalable, secure, and cost-effective cloud solutions that drive digital transformation and operational excellence across enterprise environments.*
+</div>
 
-### <img src="https://img.icons8.com/color/24/000000/trophy.png"/> **Key Achievements**
-<img src="https://img.shields.io/badge/Uptime-99.9%25-00C851?style=flat-square&logo=uptime-robot"/> <img src="https://img.shields.io/badge/Deployment_Speed-70%25_Faster-FF6B35?style=flat-square&logo=rocket"/> <img src="https://img.shields.io/badge/Cost_Reduction-45%25-28A745?style=flat-square&logo=money-bill"/>
+<div style="background: linear-gradient(135deg, #11998e 20%, #38ef7d 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px 0;">
+
+### <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> **Core Strengths**
+*Building robust cloud infrastructure, automating deployment processes, and maintaining high-availability systems while continuously expanding technical expertise in modern DevOps practices.*
+
+</div>
+
+<div style="background: linear-gradient(135deg, #FA8072 20%, #FF6347 100%); padding: 20px; border-radius: 15px; color: white; margin: 10px 0;">
+
+### <svg width="24" height="24" viewBox="0 0 24 24" fill="white"><path d="M9 12l2 2 4-4m6 2a9 9 0 11-18 0 9 9 0 0118 0z"/></svg> **Key Achievements**
+<img src="https://img.shields.io/badge/System_Uptime-98.5%25-00C851?style=flat-square&logo=uptime-robot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Automation-15%2B_Scripts-FF6B35?style=flat-square&logo=automation&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Deployments-50%2B_Successful-28A745?style=flat-square&logo=rocket&logoColor=white"/>
+
+</div>
 
 </td>
 <td width="35%">
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=0080ff&icon_color=0080ff&text_color=ffffff" alt="GitHub Stats"/>
+<div align="center" style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 20px; border-radius: 15px; margin: 10px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=30,2C3E50,34495E&title_color=FF6B35&icon_color=F7931E&text_color=ffffff" alt="GitHub Stats"/>
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&theme=radical&hide_border=true&background=30,2C3E50,34495E&stroke=FF6B35&ring=F7931E&fire=FF6B35&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
 </div>
 </td>
 </tr>
 </table>
 
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-<h2 align="center" style="color: white; margin: 0; font-size: 28px;"><img src="https://img.icons8.com/fluency/30/000000/technical-support.png"/> Technology Stack & Expertise</h2>
+<div style="background: linear-gradient(135deg, #8B5CF6 0%, #A855F7 50%, #C084FC 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 15px 35px rgba(139,92,246,0.4); border: 2px solid rgba(255,255,255,0.1);">
+<h2 align="center" style="color: white; margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> DevOps Technology Stack & Skills</h2>
 </div>
 
 <div align="center">
 
-### <img src="https://img.icons8.com/color/30/000000/cloud.png"/> **Cloud Platforms**
-<img src="https://img.shields.io/badge/AWS-Expert-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-Advanced-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-Proficient-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+<div style="background: linear-gradient(135deg, #FF9500 0%, #FF6B35 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
 
-### <img src="https://img.icons8.com/color/30/000000/docker.png"/> **Container & Orchestration**
-<img src="https://img.shields.io/badge/Kubernetes-Expert-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenShift-Advanced-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white"/>
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg> **AWS Cloud Platform (Primary Focus)**
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+</div>
 
-### <img src="https://img.icons8.com/color/30/000000/infrastructure.png"/> **Infrastructure as Code**
-<img src="https://img.shields.io/badge/Terraform-Expert-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
-<img src="https://img.shields.io/badge/CloudFormation-Advanced-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ansible-Advanced-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<div style="background: linear-gradient(135deg, #0078D4 0%, #1BA1E2 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
 
-### <img src="https://img.icons8.com/color/30/000000/workflow.png"/> **CI/CD & DevOps**
-<img src="https://img.shields.io/badge/Jenkins-Expert-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-Advanced-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
-<img src="https://img.shields.io/badge/ArgoCD-Advanced-EF7B4D?style=for-the-badge&logo=argo&logoColor=white"/>
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M22 12c0-5.52-4.48-10-10-10S2 6.48 2 12s4.48 10 10 10 10-4.48 10-10zm-7-3l-4 4-2-2-1.5 1.5L11 16l5.5-5.5L15 9z"/></svg> **Linux System Administration**
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash_Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/System_Monitoring-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/File_Systems-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
 
-### <img src="https://img.icons8.com/color/30/000000/monitor.png"/> **Monitoring & Observability**
-<img src="https://img.shields.io/badge/Prometheus-Expert-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Grafana-Expert-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
-<img src="https://img.shields.io/badge/ELK_Stack-Advanced-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+</div>
 
-### <img src="https://img.icons8.com/color/30/000000/linux.png"/> **Operating Systems**
-<img src="https://img.shields.io/badge/RHEL-Expert-EE0000?style=for-the-badge&logo=red-hat&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ubuntu-Expert-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/CentOS-Advanced-262577?style=for-the-badge&logo=centos&logoColor=white"/>
+<div style="background: linear-gradient(135deg, #2496ED 0%, #0db7ed 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
 
-### <img src="https://img.icons8.com/color/30/000000/programming.png"/> **Programming & Scripting**
-<img src="https://img.shields.io/badge/Python-Advanced-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-Expert-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-<img src="https://img.shields.io/badge/Go-Intermediate-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M13.5 2c-5.621 0-10.211 4.443-10.475 10H3c-.552 0-1 .449-1 1 0 .551.448 1 1 1h.025C3.289 19.557 7.879 24 13.5 24 19.403 24 24 19.403 24 13.5S19.403 2 13.5 2z"/></svg> **Containerization & Orchestration**
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Container_Registry-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #D24939 0%, #B71C1C 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M11.5 2L13 8l6-5-4 7h4l-8 10v-6l-4-.002L11.5 2z"/></svg> **CI/CD & Automation Tools**
+<img src="https://img.shields.io/badge/Jenkins-Intermediate-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-Proficient-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitLab_CI-Learning-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #623CE4 0%, #7C3AED 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2L2 7v10c0 5.55 3.84 9.74 9 11 5.16-1.26 9-5.45 9-11V7l-10-5z"/></svg> **Infrastructure as Code**
+<img src="https://img.shields.io/badge/Terraform-Learning-623CE4?style=for-the-badge&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ansible-Basic-EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-Learning-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/YAML-Proficient-CB171E?style=for-the-badge&logo=yaml&logoColor=white"/>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #E6522C 0%, #F46800 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M3 13h8V3H3v10zm0 8h8v-6H3v6zm10 0h8V11h-8v10zm0-18v6h8V3h-8z"/></svg> **Monitoring & Observability**
+<img src="https://img.shields.io/badge/Prometheus-Learning-E6522C?style=for-the-badge&logo=prometheus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-Basic-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS_CloudWatch-Learning-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white"/>
+<img src="https://img.shields.io/badge/ELK_Stack-Exploring-005571?style=for-the-badge&logo=elastic&logoColor=white"/>
+
+</div>
+
+<div style="background: linear-gradient(135deg, #3776AB 0%, #FFD343 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/></svg> **Programming & Scripting**
+<img src="https://img.shields.io/badge/Python-Intermediate-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-Proficient-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerShell-Learning-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/JSON-Proficient-000000?style=for-the-badge&logo=json&logoColor=white"/>
+
+</div>
 
 </div>
 
@@ -89,14 +138,14 @@
 
 <div align="center">
 
-### <img src="https://img.icons8.com/color/30/000000/cloud-migration.png"/> **Infrastructure Modernization**
+### **Infrastructure Modernization**
 <table width="100%">
 <tr>
 <td width="50%">
 <strong>Cloud Migration Excellence</strong><br/>
 <img src="https://img.shields.io/badge/Migrated-150%2B_Services-28A745?style=flat-square&logo=aws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Platforms-Multi_Cloud-0080FF?style=flat-square&logo=cloud&logoColor=white"/>
-<br/>Successfully migrated 150+ microservices to cloud-native architecture using Kubernetes on AWS EKS, Azure AKS, and GCP GKE.
+<br/>Successfully migrated microservices to cloud-native architecture using Kubernetes on AWS EKS, Azure AKS, and GCP GKE.
 </td>
 <td width="50%">
 <strong>Cost Optimization</strong><br/>
@@ -125,7 +174,7 @@
 </tr>
 </table>
 
-### <img src="https://img.icons8.com/color/30/000000/security-shield-green.png"/> **Security & Compliance**
+### **Security & Compliance**
 <table width="100%">
 <tr>
 <td width="50%">
@@ -145,13 +194,13 @@
 
 </div>
 
-<div style="background: linear-gradient(135deg, #a8edea 0%, #fed6e3 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h2 align="center" style="color: #333; margin: 0;">Enterprise Architecture & Design Patterns</h2>
+<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
+<h2 align="center" style="color: white; margin: 0; font-size: 28px;"><svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> Enterprise Architecture & Cloud Solutions</h2>
 </div>
 
 <div align="center">
 
-### **Multi-Cloud Architecture Strategy**
+### <svg width="24" height="24" viewBox="0 0 24 24" fill="#0080FF"><path d="M19.35 10.04C18.67 6.59 15.64 4 12 4 9.11 4 6.6 5.64 5.35 8.04 2.34 8.36 0 10.91 0 14c0 3.31 2.69 6 6 6h13c2.76 0 5-2.24 5-5 0-2.64-2.05-4.78-4.65-4.96z"/></svg> **Multi-Cloud Architecture Strategy**
 
 ```mermaid
 graph TB
@@ -207,282 +256,36 @@ graph TB
     style ARGOCD fill:#ef7b4d
 ```
 
-</div>
+### <svg width="24" height="24" viewBox="0 0 24 24" fill="#0080FF"><path d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/></svg> **Enterprise Solutions Portfolio**
 
-### **Infrastructure Design Patterns**
-
-<div align="center">
-
-<table>
+<table width="100%">
 <tr>
-<td width="33%">
-
-**Microservices Architecture**
-```yaml
-# Service Mesh Configuration
-apiVersion: install.istio.io/v1alpha1
-kind: IstioOperator
-metadata:
-  name: control-plane
-spec:
-  values:
-    global:
-      meshID: mesh1
-      multiCluster:
-        clusterName: cluster1
-      network: network1
-  components:
-    pilot:
-      k8s:
-        resources:
-          requests:
-            cpu: 200m
-            memory: 128Mi
-```
-
+<td width="33%" align="center">
+<strong>Infrastructure as Code</strong><br/>
+<img src="https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white"/>
+<img src="https://img.shields.io/badge/CloudFormation-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/>
+<br/>Automated infrastructure provisioning across multi-cloud environments with version control and compliance.
 </td>
-<td width="33%">
-
-**Cloud-Native Patterns**
-```hcl
-# Terraform Multi-Region Setup
-module "vpc" {
-  source = "./modules/vpc"
-  
-  for_each = var.regions
-  
-  cidr_block           = each.value.cidr
-  availability_zones   = each.value.azs
-  enable_nat_gateway   = true
-  enable_vpn_gateway   = true
-  
-  tags = {
-    Environment = var.environment
-    Region      = each.key
-  }
-}
-```
-
+<td width="33%" align="center">
+<strong>Container Orchestration</strong><br/>
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+<br/>Scalable container management with service mesh, auto-scaling, and zero-downtime deployments.
 </td>
-<td width="33%">
-
-**GitOps Workflow**
-```yaml
-# ArgoCD Application
-apiVersion: argoproj.io/v1alpha1
-kind: Application
-metadata:
-  name: microservice-app
-  namespace: argocd
-spec:
-  project: default
-  source:
-    repoURL: https://git.company.com/apps
-    targetRevision: HEAD
-    path: k8s-manifests
-  destination:
-    server: https://kubernetes.default.svc
-    namespace: production
-  syncPolicy:
-    automated:
-      prune: true
-      selfHeal: true
-```
-
+<td width="33%" align="center">
+<strong>Security & Compliance</strong><br/>
+<img src="https://img.shields.io/badge/Security-Zero_Trust-00C851?style=flat-square&logo=shield-alt&logoColor=white"/>
+<img src="https://img.shields.io/badge/Compliance-SOC2-0080FF?style=flat-square&logo=security&logoColor=white"/>
+<br/>End-to-end security implementation with policy enforcement and continuous compliance monitoring.
 </td>
 </tr>
 </table>
 
 </div>
-
-<div style="background: linear-gradient(135deg, #ffecd2 0%, #fcb69f 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h3 align="center" style="color: #333; margin: 0;">Enterprise-Grade Solutions</h3>
-</div>
-
-<div align="center">
-
-| **Security Architecture** | **Observability Stack** | **Deployment Strategy** |
-|:-:|:-:|:-:|
-| Zero-Trust Network Model | Prometheus + Grafana | Blue-Green Deployments |
-| HashiCorp Vault Integration | ELK Stack Centralized Logging | Canary Releases |
-| RBAC & Policy Enforcement | Distributed Tracing (Jaeger) | Feature Flags |
-| Secret Management | SLI/SLO Monitoring | Automated Rollbacks |
-
-</div>
-
-<div style="background: linear-gradient(135deg, #ff9a9e 0%, #fecfef 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h3 align="center" style="color: white; margin: 0;">High Availability & Disaster Recovery</h3>
-</div>
-
-```mermaid
-graph LR
-    subgraph "Primary Region (us-east-1)"
-        LB1[Load Balancer]
-        APP1[App Cluster]
-        DB1[Primary DB]
-        CACHE1[Redis Cluster]
-    end
-    
-    subgraph "Secondary Region (us-west-2)"
-        LB2[Load Balancer]
-        APP2[App Cluster]
-        DB2[Read Replica]
-        CACHE2[Redis Cluster]
-    end
-    
-    subgraph "Disaster Recovery (eu-west-1)"
-        LB3[Load Balancer]
-        APP3[Standby Cluster]
-        DB3[Backup DB]
-        CACHE3[Redis Standby]
-    end
-    
-    USER[Users] --> CDN[CloudFront CDN]
-    CDN --> LB1
-    
-    DB1 -.->|Replication| DB2
-    DB1 -.->|Backup| DB3
-    CACHE1 -.->|Sync| CACHE2
-    
-    LB1 -.->|Failover| LB2
-    LB2 -.->|DR Failover| LB3
-    
-    style USER fill:#e1f5fe
-    style CDN fill:#f3e5f5
-    style DB1 fill:#c8e6c9
-    style DB2 fill:#fff3e0
-    style DB3 fill:#ffebee
-```
-
-<div style="background: linear-gradient(135deg, #a1c4fd 0%, #c2e9fb 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h3 align="center" style="color: #333; margin: 0;">Security-First Architecture</h3>
-</div>
-
-<div align="center">
-
-```bash
-#!/bin/bash
-# Enterprise Security Implementation
-
-# 1. Network Security
-kubectl apply -f - <<EOF
-apiVersion: networking.k8s.io/v1
-kind: NetworkPolicy
-metadata:
-  name: deny-all-default
-spec:
-  podSelector: {}
-  policyTypes:
-  - Ingress
-  - Egress
-EOF
-
-# 2. Secret Management with Vault
-vault kv put secret/myapp/config \
-  db_password="$(openssl rand -base64 32)" \
-  api_key="$(openssl rand -hex 16)"
-
-# 3. Image Security Scanning
-trivy image --severity HIGH,CRITICAL myapp:latest
-
-# 4. Runtime Security
-falco --rules-file /etc/falco/k8s_audit_rules.yaml
-```
-
-</div>
-
-<div style="background: linear-gradient(135deg, #d299c2 0%, #fef9d7 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h3 align="center" style="color: #333; margin: 0;">Specialized Expertise</h3>
-</div>
-
-<div align="center">
-
-<table>
-<tr>
-<td width="33%">
-
-**Linux Mastery**
-```bash
-# System Administration
-$ sudo systemctl status --all
-$ htop && iotop && nethogs
-$ awk '{print $1}' /var/log/access.log | sort | uniq -c
-$ find /var/log -name "*.log" -exec grep -l "ERROR" {} \;
-```
-
-</td>
-<td width="33%">
-
-**Cloud Excellence**
-```bash
-# AWS CLI Power Commands
-$ aws ec2 describe-instances --query 'Reservations[].Instances[].[InstanceId,State.Name,InstanceType]'
-$ aws s3 sync ./local-folder s3://bucket-name --delete
-$ aws cloudformation validate-template --template-body file://template.yaml
-```
-
-</td>
-<td width="33%">
-
-**DevOps Automation**
-```yaml
-# Kubernetes Deployment
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: app-deployment
-spec:
-  replicas: 3
-  selector:
-    matchLabels:
-      app: myapp
-  template:
-    metadata:
-      labels:
-        app: myapp
-    spec:
-      containers:
-      - name: app
-        image: myapp:latest
-        ports:
-        - containerPort: 8080
-```
-
-</td>
-</tr>
-</table>
-
-</div>
-
 ---
 
-<div style="background: linear-gradient(135deg, #89f7fe 0%, #66a6ff 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
-<h2 align="center" style="color: white; margin: 0;">Current Projects & Achievements</h2>
-</div>
-
-<div style="background: linear-gradient(135deg, #fdbb2d 0%, #22c1c3 100%); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<h3 style="color: white; margin: 0;">Infrastructure Modernization</h3>
-</div>
-- **Cloud Migration**: Successfully migrated 50+ microservices to Kubernetes on AWS EKS
-- **Cost Optimization**: Reduced cloud infrastructure costs by 40% through right-sizing and automation
-- **Security Enhancement**: Implemented zero-trust networking with service mesh (Istio)
-
-<div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<h3 style="color: white; margin: 0;">DevOps Transformation</h3>
-</div>
-- **CI/CD Excellence**: Built enterprise-grade pipelines reducing deployment time from hours to minutes
-- **GitOps Implementation**: Deployed ArgoCD for applications with automated rollbacks
-- **Monitoring & Observability**: Implemented comprehensive observability stack (Prometheus + Grafana + ELK)
-
-<div style="background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); padding: 15px; border-radius: 10px; margin: 15px 0;">
-<h3 style="color: white; margin: 0;">Linux & System Administration</h3>
-</div>
-- **Performance Tuning**: Optimized Linux systems achieving 99.9% uptime
-- **Automation Scripts**: Created Bash/Python scripts for system administration
-- **Container Security**: Implemented comprehensive container scanning and hardening
-
 <div style="background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-<h2 align="center" style="color: white; margin: 0; font-size: 28px;"><img src="https://img.icons8.com/fluency/30/000000/connection.png"/> Professional Network & Contact</h2>
+<h2 align="center" style="color: white; margin: 0; font-size: 28px;"><svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> Professional Network & Contact</h2>
 </div>
 
 <div align="center">
@@ -490,25 +293,25 @@ spec:
 <table>
 <tr>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/48/000000/linkedin.png"/><br/>
+  <svg width="48" height="48" viewBox="0 0 24 24" fill="#0077B5"><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg><br/>
   <a href="https://www.linkedin.com/in/khaledhawil/">
     <img src="https://img.shields.io/badge/LinkedIn-Professional_Network-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/48/000000/github.png"/><br/>
+  <svg width="48" height="48" viewBox="0 0 24 24" fill="#181717"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z"/></svg><br/>
   <a href="https://github.com/khaledhawil?tab=repositories">
     <img src="https://img.shields.io/badge/GitHub-Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/48/000000/email.png"/><br/>
+  <svg width="48" height="48" viewBox="0 0 24 24" fill="#D14836"><path d="M24 5.457v13.909c0 .904-.732 1.636-1.636 1.636h-3.819V11.73L12 16.64l-6.545-4.91v9.273H1.636A1.636 1.636 0 0 1 0 19.366V5.457c0-.887.732-1.636 1.636-1.636h.727L12 10.454l9.637-6.633h.727c.904 0 1.636.749 1.636 1.636z"/></svg><br/>
   <a href="mailto:khaledhawil91@gmail.com">
     <img src="https://img.shields.io/badge/Email-Direct_Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </td>
 <td align="center" width="25%">
-  <img src="https://img.icons8.com/color/48/000000/resume.png"/><br/>
+  <svg width="48" height="48" viewBox="0 0 24 24" fill="#4CAF50"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8l-6-6z"/><path d="M14 2v6h6V3h-8z"/><path d="M16 13H8"/><path d="M16 17H8"/><path d="M10 9H8"/></svg><br/>
   <a href="https://github.com/khaledhawil/khaledhawil/blob/main/KhaledHawil-CV-DevOps.pdf">
     <img src="https://img.shields.io/badge/Resume-Download_CV-4CAF50?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume"/>
   </a>
@@ -516,12 +319,17 @@ spec:
 </tr>
 </table>
 
-### <img src="https://img.icons8.com/color/30/000000/briefcase.png"/> **Available For**
-<img src="https://img.shields.io/badge/Role-DevOps_Engineer-0080FF?style=for-the-badge&logo=devops&logoColor=white"/>
-<img src="https://img.shields.io/badge/Role-Cloud_Architect-FF6B35?style=for-the-badge&logo=aws&logoColor=white"/>
-<img src="https://img.shields.io/badge/Role-Infrastructure_Lead-28A745?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-<img src="https://img.shields.io/badge/Type-Full_Time-FF1744?style=for-the-badge&logo=work&logoColor=white"/>
-<img src="https://img.shields.io/badge/Type-Contract-9C27B0?style=for-the-badge&logo=contract&logoColor=white"/>
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="#FF6B35"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> **I'm Actively Seeking**
+<img src="https://img.shields.io/badge/Role-Junior_DevOps_Engineer-FF6B35?style=for-the-badge&logo=devops&logoColor=white"/>
+<img src="https://img.shields.io/badge/Role-AWS_Cloud_Engineer-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
+<img src="https://img.shields.io/badge/Role-Linux_System_Admin-E95420?style=for-the-badge&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Type-Full_Time_Remote-00C851?style=for-the-badge&logo=remote&logoColor=white"/>
+<img src="https://img.shields.io/badge/Type-Hybrid_Opportunities-9C27B0?style=for-the-badge&logo=office&logoColor=white"/>
+
+<br/><br/>
+<div style="background: linear-gradient(135deg, #667eea 20%, #764ba2 100%); padding: 15px; border-radius: 10px; color: white;">
+<strong>🎯 What I Bring:</strong> Passionate DevOps engineer eager to contribute, learn, and grow with an innovative team. Ready to tackle challenges in cloud infrastructure, automation, and system reliability.
+</div>
 
 </div>
 
@@ -529,10 +337,16 @@ spec:
 
 <div align="center">
   
-**"Building the infrastructure that powers tomorrow's innovations"**
+<div style="background: linear-gradient(135deg, #FF6B35 0%, #F7931E 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+**"Passionate about automating the future, one pipeline at a time"**
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=100&section=footer&fontSize=16&fontColor=fff&animation=fadeIn" width="100%"/>
 
-<sub>Last updated: June 2025 | Crafted with precision by Khaled Hawil</sub>
+<div style="background: linear-gradient(135deg, #2C3E50 0%, #34495E 100%); padding: 15px; border-radius: 10px; margin: 10px 0; color: white;">
+<sub><strong>Last updated:</strong> June 2025 | <strong>Built with passion by:</strong> Khaled Hawil | <strong>Status:</strong> Actively Growing & Learning</sub>
+</div>
 
 </div>
