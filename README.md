@@ -1,37 +1,136 @@
-<h1 align="center">Hi 👋, I'm Khaled Hawil</h1>
-<h3 align="center">DevOps Engineer</h3>
-<p align="left"> <img src="https://media.licdn.com/dms/image/v2/D4D16AQG4cUCLl6xxKQ/profile-displaybackgroundimage-shrink_350_1400/B4DZaINeHiHQAY-/0/1746041962234?e=1753315200&v=beta&t=VVHS8nlJ-UvTalf984TWu2kKnWr-rajc-KOzz5epeOk" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20views&color=0e75b6&style=flat" alt="khaledhawil" /> </p>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D4D16AQG4cofile-displaybackgroundimage-shrink_350_1400/B4DZaINeHiHQAY-/0/1746041962234?e=1753315200&v=beta&t=VVHS8nlJ-UvTalf984TWu2kKnWr-rajc-KOzz5epeOk" alt="Banner" style="width: 100%; max-width: 800px; border-radius: 10px;" />
+</div>
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khaledhawil" alt="khaledhawil" /></a> </p> -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Khaled+Hawil!;" />
+</h1>
 
-<p align="left"> <a href="https://twitter.com/khaledhawill" target="blank"><img src="https://img.shields.io/twitter/follow/khaledhawill?logo=twitter&style=for-the-badge" alt="khaledhawill" /></a> </p>
+<div align="center">
+  <h3>DevOps Engineer | Cloud Architect  </h3>
+  
+  <img src="https://komarev.com/ghpvc/?username=khaledhawil&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://twitter.com/khaledhawill" target="_blank">
+    <img src="https://img.shields.io/twitter/follow/khaledhawill?logo=twitter&style=for-the-badge&color=1DA1F2" alt="Twitter Follow" />
+  </a>
+  <a href="https://github.com/khaledhawil?tab=followers">
+    <img src="https://img.shields.io/github/followers/khaledhawil?label=Followers&style=for-the-badge&color=236ad3" alt="GitHub Followers" />
+  </a>
+</div>
 
-- 🌱 I’m currently learning **Terraform,Jenkins,Argocd**
+---
 
-- 👨‍💻 All of my projects are available at [Projects](https://github.com/khaledhawil/PathToDevOps/tree/master/projects)
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/khaledhawil/)
+## 🎯 About Me
 
-- 📫 How to reach me **khaledhawil91@gmail.com**
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 
-- 📄 Know about my experiences [Resume](https://github.com/khaledhawil/khaledhawil/blob/main/KhaledHawil-CV-DevOps.pdf)
+```yaml
+name: Khaled Hawil
+role: DevOps Engineer
+location: "🌍 Global Remote"
+current_focus: 
+  - Infrastructure as Code
+  - Container Orchestration
+  - CI/CD Pipeline Optimization
+  - Cloud Architecture
 
-- 📄 My Skills **(Linux Adminstaration, Git, Bash Scripting, Docker, k8s, AWS, Python, Apache, Nginx, Mongodb,MySql, Vagrant,)**
+learning:
+  - Terraform
+  - Jenkins
+  - ArgoCD
+  - Advanced Kubernetes
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/khaledhawill" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khaledhawill" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/khaledhawil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khaledhawil" height="30" width="40" /></a>
-<a href="https://fb.com/khaledhawil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="khaledhawil" height="30" width="40" /></a>
-<a href="https://instagram.com/khaledhawil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khaledhawil" height="30" width="40" /></a>
-</p>
+interests:
+  - Open Source Contribution
+  - Cloud Technologies
+  - System Automation
+  - Technical Writing
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+## 🔥 What I'm Currently Working On
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khaledhawil&show_icons=true&locale=en&layout=compact" alt="khaledhawil" /></p>
+- 🛠️ **Mastering Infrastructure as Code** with Terraform
+- 🚀 **Building robust CI/CD pipelines** with Jenkins
+- 🎯 **Implementing GitOps** workflows with ArgoCD
+- 📖 **Sharing DevOps knowledge** through technical articles
+- 🌟 **Contributing to open-source** DevOps projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&locale=en" alt="khaledhawil" /></p>
+## 📈 Professional Highlights
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&" alt="khaledhawil" /></p>
+- 🏗️ **Infrastructure Automation**: Streamlining deployment processes
+- ☁️ **Cloud Migration**: AWS expertise with scalable solutions
+- 🐳 **Containerization**: Docker & Kubernetes orchestration
+- 🔄 **CI/CD Implementation**: Automated testing and deployment pipelines
+- 📊 **Monitoring & Observability**: Ensuring system reliability
+- 🛡️ **Security Best Practices**: DevSecOps integration
+
+## 📚 Resources & Links
+
+<div align="center">
+
+| 🎯 **Quick Links** | 📖 **Content** | 📞 **Contact** |
+|:-:|:-:|:-:|
+| [📂 **Projects**](https://github.com/khaledhawil?tab=repositories) | [📝 **Articles**](https://medium.com/@khaledhawil) | [📧 **Email**](mailto:khaledhawil91@gmail.com) |
+| [📄 **Resume**](https://github.com/khaledhawil/khaledhawil/blob/main/KhaledHawil-CV-DevOps.pdf) | [🎓 **Learning Path**](https://github.com/khaledhawil/PathToDevOps) | [💼 **LinkedIn**](https://www.linkedin.com/in/khaledhawil/) |
+
+</div>
+
+## 🛠️ Technology Stack
+
+<div align="center">
+
+### ☁️ **Cloud & Infrastructure**
+<img src="https://skillicons.dev/icons?i=aws,terraform,kubernetes,docker,jenkins,nginx,linux,git" />
+
+### 💻 **Programming & Scripting**  
+<img src="https://skillicons.dev/icons?i=python,bash,javascript,nodejs" />
+
+### 🗄️ **Databases & Tools**
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,vagrant" />
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhawil&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&theme=tokyonight" alt="GitHub Streak Stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=khaledhawil&theme=tokyo-night" alt="Contribution Graph"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=khaledhawil&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 💡 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+</div>
+
+---
