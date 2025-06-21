@@ -350,3 +350,376 @@ graph TB
 </div>
 
 </div>
+
+<div style="background: linear-gradient(135deg, #FF6B6B 0%, #4ECDC4 100%); padding: 25px; border-radius: 20px; margin: 25px 0; box-shadow: 0 15px 35px rgba(255,107,107,0.4); border: 2px solid rgba(255,255,255,0.1);">
+<h2 align="center" style="color: white; margin: 0; font-size: 28px; text-shadow: 2px 2px 4px rgba(0,0,0,0.3);"><svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M9.4 16.6L4.8 12l4.6-4.6L8 6l-6 6 6 6 1.4-1.4zm5.2 0L19.2 12l-4.6-4.6L16 6l6 6-6 6-1.4-1.4z"/></svg> DevOps Tools Arsenal - Bash Scripts</h2>
+</div>
+
+<div align="center">
+
+<div style="background: linear-gradient(135deg, #667eea 20%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> **DevOps Daily Toolkit Script**
+
+```bash
+#!/bin/bash
+# Khaled Hawil's DevOps Daily Toolkit
+# Comprehensive script for AWS, Docker, K8s, and Linux management
+
+set -e  # Exit on any error
+
+# Color definitions for better output
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+BLUE='\033[0;34m'
+PURPLE='\033[0;35m'
+CYAN='\033[0;36m'
+NC='\033[0m' # No Color
+
+# Function to print colored output
+print_status() {
+    echo -e "${GREEN}[INFO]${NC} $1"
+}
+
+print_warning() {
+    echo -e "${YELLOW}[WARNING]${NC} $1"
+}
+
+print_error() {
+    echo -e "${RED}[ERROR]${NC} $1"
+}
+
+print_header() {
+    echo -e "\n${CYAN}==========================================${NC}"
+    echo -e "${PURPLE}$1${NC}"
+    echo -e "${CYAN}==========================================${NC}\n"
+}
+
+# AWS Management Functions
+aws_health_check() {
+    print_header "AWS Infrastructure Health Check"
+    
+    # Check AWS CLI configuration
+    if aws sts get-caller-identity &>/dev/null; then
+        print_status "AWS CLI configured and authenticated"
+        echo "Account ID: $(aws sts get-caller-identity --query Account --output text)"
+        echo "User/Role: $(aws sts get-caller-identity --query Arn --output text)"
+    else
+        print_error "AWS CLI not configured or authentication failed"
+        return 1
+    fi
+    
+    # List running EC2 instances
+    print_status "Checking running EC2 instances..."
+    aws ec2 describe-instances \
+        --filters "Name=instance-state-name,Values=running" \
+        --query 'Reservations[].Instances[].[InstanceId,InstanceType,PublicIpAddress,Tags[?Key==`Name`].Value|[0]]' \
+        --output table
+    
+    # Check S3 buckets
+    print_status "S3 Buckets overview..."
+    aws s3 ls | head -10
+    
+    # CloudWatch alarms in ALARM state
+    print_status "Active CloudWatch alarms..."
+    aws cloudwatch describe-alarms \
+        --state-value ALARM \
+        --query 'MetricAlarms[].AlarmName' \
+        --output table 2>/dev/null || print_warning "No alarms in ALARM state"
+}
+
+# Docker Management Functions
+docker_management() {
+    print_header "Docker Container Management"
+    
+    # System cleanup
+    print_status "Cleaning up Docker system..."
+    docker system prune -f
+    docker volume prune -f
+    
+    # Show running containers
+    print_status "Currently running containers:"
+    docker ps --format "table {{.Names}}\t{{.Image}}\t{{.Status}}\t{{.Ports}}"
+    
+    # Show disk usage
+    print_status "Docker disk usage:"
+    docker system df
+    
+    # Show recent logs for all containers
+    print_status "Recent container logs (last 50 lines):"
+    for container in $(docker ps -q); do
+        container_name=$(docker inspect --format='{{.Name}}' $container | sed 's/\///')
+        echo -e "\n${BLUE}=== Logs for $container_name ===${NC}"
+        docker logs --tail 10 $container 2>/dev/null || print_warning "Could not fetch logs for $container_name"
+    done
+}
+
+# Kubernetes Management Functions
+k8s_cluster_check() {
+    print_header "Kubernetes Cluster Management"
+    
+    # Check kubectl connection
+    if kubectl cluster-info &>/dev/null; then
+        print_status "Connected to Kubernetes cluster"
+        kubectl cluster-info | head -3
+    else
+        print_error "Cannot connect to Kubernetes cluster"
+        return 1
+    fi
+    
+    # Cluster nodes status
+    print_status "Cluster nodes status:"
+    kubectl get nodes -o wide
+    
+    # Pods status across all namespaces
+    print_status "Pods status (all namespaces):"
+    kubectl get pods --all-namespaces -o wide | grep -v Running | head -20
+    
+    # Services and ingresses
+    print_status "Services overview:"
+    kubectl get services --all-namespaces -o wide | head -10
+    
+    # Resource usage
+    print_status "Top resource-consuming pods:"
+    kubectl top pods --all-namespaces --sort-by=cpu 2>/dev/null | head -10 || print_warning "Metrics server not available"
+    
+    # Recent events
+    print_status "Recent cluster events:"
+    kubectl get events --sort-by='.lastTimestamp' --all-namespaces | tail -10
+}
+
+# Linux System Monitoring
+system_monitoring() {
+    print_header "Linux System Health Monitoring"
+    
+    # System uptime and load
+    print_status "System uptime and load:"
+    uptime
+    
+    # Memory usage
+    print_status "Memory usage:"
+    free -h
+    
+    # Disk space
+    print_status "Disk space usage:"
+    df -h | head -10
+    
+    # CPU information
+    print_status "CPU information:"
+    echo "CPU cores: $(nproc)"
+    echo "CPU usage: $(top -bn1 | grep "Cpu(s)" | awk '{print $2}' | cut -d'%' -f1)% user"
+    
+    # Network connections
+    print_status "Active network connections:"
+    netstat -tulpn | grep LISTEN | head -10
+    
+    # Recent system logs
+    print_status "Recent system errors (last 20 lines):"
+    journalctl -p err --since "1 hour ago" --no-pager | tail -20 || print_warning "No recent errors found"
+    
+    # Failed systemd services
+    print_status "Failed systemd services:"
+    systemctl --failed --no-pager | head -10
+}
+
+# CI/CD Pipeline Health Check
+cicd_status() {
+    print_header "CI/CD Pipeline Status Check"
+    
+    # Git repository status
+    if git rev-parse --git-dir &>/dev/null; then
+        print_status "Git repository information:"
+        echo "Branch: $(git branch --show-current)"
+        echo "Last commit: $(git log -1 --pretty=format:'%h - %s (%cr)')"
+        echo "Status: $(git status --porcelain | wc -l) modified files"
+    else
+        print_warning "Not in a git repository"
+    fi
+    
+    # Docker Compose services (if docker-compose.yml exists)
+    if [ -f "docker-compose.yml" ]; then
+        print_status "Docker Compose services status:"
+        docker-compose ps 2>/dev/null || print_warning "Docker Compose not available"
+    fi
+    
+    # Jenkins build status (if Jenkins CLI is available)
+    if command -v jenkins-cli &>/dev/null; then
+        print_status "Recent Jenkins builds:"
+        jenkins-cli list-jobs 2>/dev/null | head -5 || print_warning "Jenkins CLI not configured"
+    fi
+}
+
+# Infrastructure Security Check
+security_audit() {
+    print_header "Infrastructure Security Audit"
+    
+    # Check for security updates
+    print_status "Checking for security updates..."
+    if command -v apt &>/dev/null; then
+        apt list --upgradable 2>/dev/null | grep -i security | wc -l | xargs echo "Available security updates:"
+    elif command -v yum &>/dev/null; then
+        yum check-update --security 2>/dev/null | wc -l | xargs echo "Available security updates:"
+    fi
+    
+    # SSH key permissions
+    print_status "SSH key file permissions:"
+    find ~/.ssh -type f -exec ls -la {} \; 2>/dev/null | head -10
+    
+    # Check for world-writable files in important directories
+    print_status "Checking for insecure file permissions:"
+    find /etc /home -type f -perm -002 2>/dev/null | head -5 | while read file; do
+        print_warning "World-writable file found: $file"
+    done
+    
+    # Active user sessions
+    print_status "Active user sessions:"
+    who
+    
+    # Last login attempts
+    print_status "Recent login attempts:"
+    last | head -10
+}
+
+# Main menu function
+show_menu() {
+    clear
+    echo -e "${CYAN}╔══════════════════════════════════════════════════════════════╗${NC}"
+    echo -e "${CYAN}║                    ${PURPLE}Khaled's DevOps Toolkit${CYAN}                    ║${NC}"
+    echo -e "${CYAN}║              ${YELLOW}Comprehensive Infrastructure Management${CYAN}              ║${NC}"
+    echo -e "${CYAN}╚══════════════════════════════════════════════════════════════╝${NC}"
+    echo
+    echo -e "${GREEN}Available Operations:${NC}"
+    echo -e "  ${BLUE}1)${NC} AWS Infrastructure Health Check"
+    echo -e "  ${BLUE}2)${NC} Docker Container Management"
+    echo -e "  ${BLUE}3)${NC} Kubernetes Cluster Operations"
+    echo -e "  ${BLUE}4)${NC} Linux System Monitoring"
+    echo -e "  ${BLUE}5)${NC} CI/CD Pipeline Status"
+    echo -e "  ${BLUE}6)${NC} Security Audit"
+    echo -e "  ${BLUE}7)${NC} Complete Infrastructure Scan"
+    echo -e "  ${BLUE}0)${NC} Exit"
+    echo
+    echo -n -e "${YELLOW}Choose an option [0-7]: ${NC}"
+}
+
+# Complete infrastructure scan
+full_scan() {
+    print_header "Complete Infrastructure Health Scan"
+    aws_health_check
+    docker_management
+    k8s_cluster_check
+    system_monitoring
+    cicd_status
+    security_audit
+    print_status "Complete scan finished!"
+}
+
+# Main script execution
+main() {
+    while true; do
+        show_menu
+        read -r choice
+        case $choice in
+            1) aws_health_check ;;
+            2) docker_management ;;
+            3) k8s_cluster_check ;;
+            4) system_monitoring ;;
+            5) cicd_status ;;
+            6) security_audit ;;
+            7) full_scan ;;
+            0) echo -e "\n${GREEN}Thanks for using Khaled's DevOps Toolkit!${NC}\n"; exit 0 ;;
+            *) print_error "Invalid option. Please choose 0-7." ;;
+        esac
+        echo -e "\n${YELLOW}Press Enter to continue...${NC}"
+        read -r
+    done
+}
+
+# Run main function if script is executed directly
+if [[ "${BASH_SOURCE[0]}" == "${0}" ]]; then
+    main
+fi
+```
+
+</div>
+
+<div style="background: linear-gradient(135deg, #11998e 20%, #38ef7d 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> **Quick Command Reference**
+
+```bash
+# AWS Power Commands
+aws ec2 describe-instances --query 'Reservations[].Instances[].[InstanceId,State.Name,PublicIpAddress]' --output table
+aws s3 sync ./local-folder s3://my-bucket --delete --dryrun
+aws cloudformation validate-template --template-body file://template.yaml
+aws logs tail /aws/lambda/my-function --follow
+
+# Docker Operations
+docker-compose up -d --scale web=3
+docker exec -it $(docker ps -q --filter "name=app") /bin/bash
+docker stats --format "table {{.Container}}\t{{.CPUPerc}}\t{{.MemUsage}}"
+docker system events --filter container=my-app --since 1h
+
+# Kubernetes Management
+kubectl get pods -o wide --sort-by='.status.startTime'
+kubectl logs -f deployment/my-app --all-containers=true
+kubectl port-forward svc/my-service 8080:80
+kubectl describe pod $(kubectl get pods -l app=my-app -o name | head -1)
+
+# Linux System Administration
+systemctl status --failed --no-pager
+journalctl -u nginx.service --since "1 hour ago" --no-pager
+find /var/log -name "*.log" -mtime +7 -exec gzip {} \;
+htop -u $(whoami) -d 10
+
+# CI/CD Pipeline Commands
+git log --oneline --graph --decorate --all | head -20
+jenkins-cli build my-job -p BRANCH=main -w
+terraform plan -var-file=production.tfvars
+ansible-playbook -i inventory playbook.yml --check --diff
+
+# Monitoring & Troubleshooting
+curl -I http://localhost:8080/health
+netstat -tulpn | grep :80
+tail -f /var/log/nginx/error.log | grep ERROR
+ps aux | grep -v grep | grep my-process
+```
+
+</div>
+
+<div style="background: linear-gradient(135deg, #f093fb 20%, #f5576c 100%); padding: 20px; border-radius: 15px; margin: 15px 0; color: white;">
+
+### <svg width="30" height="30" viewBox="0 0 24 24" fill="white"><path d="M12 2l3.09 6.26L22 9.27l-5 4.87 1.18 6.88L12 17.77l-6.18 3.25L7 14.14 2 9.27l6.91-1.01L12 2z"/></svg> **Automation Scripts Portfolio**
+
+<table width="100%">
+<tr>
+<td width="33%" align="center">
+<strong>🚀 Deployment Automation</strong><br/>
+<img src="https://img.shields.io/badge/Scripts-5%2B-FF6B35?style=flat-square&logo=automation&logoColor=white"/>
+<br/>• Blue-green deployment scripts<br/>
+• Zero-downtime rolling updates<br/>
+• Environment provisioning<br/>
+• Application health checks
+</td>
+<td width="33%" align="center">
+<strong>📊 Monitoring Automation</strong><br/>
+<img src="https://img.shields.io/badge/Dashboards-8%2B-28A745?style=flat-square&logo=grafana&logoColor=white"/>
+<br/>• Custom Grafana dashboards<br/>
+• Automated alert management<br/>
+• Log aggregation scripts<br/>
+• Performance metric collection
+</td>
+<td width="33%" align="center">
+<strong>🔧 Infrastructure Management</strong><br/>
+<img src="https://img.shields.io/badge/Tools-12%2B-0080FF?style=flat-square&logo=tools&logoColor=white"/>
+<br/>• Server provisioning scripts<br/>
+• Backup automation<br/>
+• Security hardening<br/>
+• Compliance checking
+</td>
+</tr>
+</table>
+
+</div>
+
+</div>
