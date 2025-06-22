@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Khaled %Hawil&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=DevOps%20Engineer%20%7C%20Cloud%20%7C%20Linux Admin&descAlignY=50&descSize=18" width=100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Khaled%20Hawil&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Linux%20Administrator&descAlignY=50&descSize=18" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems;CI%2FCD+Pipeline+Architect;Container+Orchestrationl;Infrastructure+as+Code+Practitioner;Automation+%26+Monitoringt" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Linux+Systems+Expert;CI%2FCD+Pipeline+Architect;Container+Orchestration+Professional;Infrastructure+as+Code+Practitioner;Automation+%26+Monitoring+Specialist" />
 </div>
 
 <div align="center">
@@ -13,6 +13,11 @@
 <td align="center">
   
 [![Professional LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/khaledhawil)
+
+</td>
+<td align="center">
+
+[![Download CV](https://img.shields.io/badge/CV-Download%20Resume-FF6B35?style=for-the-badge&logo=file-pdf&logoColor=white&labelColor=000)](https://github.com/khaledhawil/khaledhawil/raw/main/KhaledHawil-CV-DevOps.pdf)
 
 </td>
 <td align="center">
@@ -397,11 +402,11 @@
 
 **Technical Achievements:**
 
-- 🏆 **AWS Infrastructure**: Successfully deployed production-grade e-commerce platform
-- 🎯 **Container Orchestration**: Managed Kubernetes clusters with 99.9% uptime
-- ⚡ **CI/CD Excellence**: Implemented automated pipelines with zero-downtime deployments
-- 🔒 **Security Integration**: Integrated Trivy scanning with 100% vulnerability detection
-- 📊 **Monitoring Setup**: Configured Prometheus & Grafana for comprehensive observability
+- **AWS Infrastructure**: Successfully deployed production-grade e-commerce platform
+- **Container Orchestration**: Managed Kubernetes clusters with 99.9% uptime
+- **CI/CD Excellence**: Implemented automated pipelines with zero-downtime deployments
+- **Security Integration**: Integrated Trivy scanning with 100% vulnerability detection
+- **Monitoring Setup**: Configured Prometheus & Grafana for comprehensive observability
 
 **Growth Trajectory:**
 
@@ -764,7 +769,8 @@ ansible-inventory --list -i inventory                   # List inventory
 </div>
 
 </div>
+</table>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width=100%/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 </div>
