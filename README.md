@@ -299,6 +299,8 @@
 </tr>
 </table>
 
+</div>
+
 ---
 
 
@@ -318,8 +320,13 @@
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
+</div>
+
+---
 
 <div align="center">
 
@@ -347,16 +354,20 @@
 - "Infrastructure Monitoring"
 
 </td>
+<td align="center" width="33%">
 
+**Documentation Hub:**
+- API Integration Guides
+- Infrastructure Diagrams
+- Troubleshooting Runbooks
+
+</td>
 </tr>
 </table>
 
 </div>
 
-<div align="center">
-
 ---
-
 
 <div align="center">
 
