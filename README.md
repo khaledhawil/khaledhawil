@@ -3,297 +3,48 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure+Specialist;Linux+Systems+Expert;CI%2FCD+Pipeline+Architect;Container+Orchestration+Professional;Infrastructure+as+Code+Practitioner;Automation+%26+Monitoring+Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" />
 </div>
+
+
+<div align="center">
+
+![Profile Separator](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2)
+
+</div>
+
+## Contact & Professional Links
 
 <div align="center">
 
 <table>
 <tr>
-<td align="center">
-  
-[![Professional LinkedIn](https://img.shields.io/badge/LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://linkedin.com/in/khaledhawil)
+<td align="center" width="25%">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/khaledhawil)
+
+**Professional Network**
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
-[![Download CV](https://img.shields.io/badge/CV-Download%20Resume-FF6B35?style=for-the-badge&logo=file-pdf&logoColor=white&labelColor=000)](https://github.com/khaledhawil/khaledhawil/raw/main/KhaledHawil-CV-DevOps.pdf)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335)](mailto:khaledhawil91@gmail.com)
 
-</td>
-<td align="center">
-
-[![GitHub Portfolio](https://img.shields.io/badge/GitHub-Code%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/khaledhawil)
+**Direct Contact**
 
 </td>
-<td align="center">
+<td align="center" width="25%">
 
-[![Business Email](https://img.shields.io/badge/Email-Business%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:khaledhawil91@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/khaledhawil)
 
-</td>
-<td align="center">
-
-[![Direct Contact](https://img.shields.io/badge/Phone-Direct%20Line-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=000)](tel:+201064349945)
+**Code Portfolio**
 
 </td>
-</tr>
-</table>
+<td align="center" width="25%">
 
-</div>
+[![CV Download](https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF6B35)](https://github.com/khaledhawil/khaledhawil/raw/main/KhaledHawil-CV-DevOps.pdf)
 
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><img src="https://img.shields.io/badge/Location-Cairo,%20Egypt-FF6B6B?style=flat-square&logo=map-pin&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Availability-Open%20to%20Relocation-4ECDC4?style=flat-square&logo=globe&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Military%20Service-Completed-45B7D1?style=flat-square&logo=shield-check&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/Experience%20Level-Junior%20Professional-96CEB4?style=flat-square&logo=trending-up&logoColor=white" /></td>
-</tr>
-</table>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=80&text=Professional%20Executive%20Summary&fontSize=26&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
-
-<div align="center">
-
-<table>
-<tr>
-<td width="70%">
-
-**Enterprise-Ready DevOps & Cloud Engineer** with comprehensive hands-on experience in **Linux system administration**, **containerization technologies**, and **AWS cloud infrastructure**. Recent **Computer Science graduate** (Excellent Grade) with intensive **360-hour AWS re/Start Program** certification from ITI.
-
-**Core Professional Competencies:**
-- **Infrastructure Automation**: Terraform, Ansible, Infrastructure as Code best practices
-- **CI/CD Excellence**: Jenkins pipelines, ArgoCD GitOps workflows, automated deployments  
-- **Cloud Architecture**: AWS services integration, scalable solutions, cost optimization
-- **Container Orchestration**: Docker containerization, Kubernetes cluster management
-- **DevSecOps Implementation**: Security scanning, compliance monitoring, vulnerability assessment
-- **System Observability**: Prometheus metrics, Grafana dashboards, comprehensive monitoring
-
-</td>
-<td width="30%">
-
-<div align="center">
-
-**Certifications & Achievements**
-
-<img src="https://img.shields.io/badge/AWS%20re/Start-Program%20Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ITI%20Training-360%20Hour%20Intensive-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Computer%20Science-B.Sc%20Excellent-28A745?style=for-the-badge&logo=university&logoColor=white" />
-
-**Performance Metrics**
-
-<img src="https://img.shields.io/badge/System%20Uptime-99.9%25-success?style=for-the-badge&logo=server&logoColor=white" />
-<img src="https://img.shields.io/badge/Deployment%20Success-100%25-success?style=for-the-badge&logo=rocket&logoColor=white" />
-
-</div>
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-**Systems & Infrastructure**
-<div align="center">
-
-![Linux Administration](https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Bash Scripting](https://img.shields.io/badge/Bash%20Scripting-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python Automation](https://img.shields.io/badge/Python%20Automation-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-</div>
-
-**Version Control & Collaboration**
-<div align="center">
-
-![Git Workflows](https://img.shields.io/badge/Git%20Workflows-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-**Containerization & Orchestration**
-<div align="center">
-
-![Docker Mastery](https://img.shields.io/badge/Docker%20Mastery-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes%20K8s-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-</div>
-
-</td>
-<td width="50%">
-
-**Cloud Platform Expertise**
-<div align="center">
-
-![AWS Solutions](https://img.shields.io/badge/AWS%20Solutions-Certified-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-**CI/CD & Automation**
-<div align="center">
-
-![Jenkins Pipelines](https://img.shields.io/badge/Jenkins%20Pipelines-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![ArgoCD GitOps](https://img.shields.io/badge/ArgoCD%20GitOps-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-</div>
-
-**Infrastructure as Code**
-<div align="center">
-
-![Terraform IaC](https://img.shields.io/badge/Terraform%20IaC-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible Config](https://img.shields.io/badge/Ansible%20Config-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-**Monitoring & Security Suite**
-<div align="center">
-
-![Prometheus Metrics](https://img.shields.io/badge/Prometheus%20Metrics-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana Dashboards](https://img.shields.io/badge/Grafana%20Dashboards-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Trivy Security](https://img.shields.io/badge/Trivy%20Security%20Scanner-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
-![CloudWatch Logs](https://img.shields.io/badge/CloudWatch%20Monitoring-FF9900?style=for-the-badge&logo=amazon-cloudwatch&logoColor=white)
-
-</div>
-
-**Professional Skill Assessment Matrix**
-
-| **Technology Domain** | **Proficiency Level** | **Hands-on Experience** | **Certification Status** |
-|----------------------|----------------------|--------------------------|---------------------------|
-| Linux System Administration | ![95%](https://img.shields.io/badge/95%25-Expert-success) | Intensive Training | AWS re/Start Certified |
-| AWS Cloud Services | ![85%](https://img.shields.io/badge/85%25-Advanced-blue) | 6 Months Practical | AWS re/Start Program |
-| Docker & Containerization | ![90%](https://img.shields.io/badge/90%25-Expert-success) | Production Projects | Self-taught + ITI |
-| Kubernetes Orchestration | ![80%](https://img.shields.io/badge/80%25-Advanced-blue) | Real Deployments | ITI Training |
-| CI/CD Pipeline Development | ![88%](https://img.shields.io/badge/88%25-Expert-success) | Live Implementation | Jenkins + ArgoCD |
-| Infrastructure as Code | ![82%](https://img.shields.io/badge/82%25-Advanced-blue) | Project-based Learning | Terraform + Ansible |
-
-</div>
-
----
-
-
-
-<table>
-<tr>
-<td width="50%">
-
-**Academic Excellence**
-
-<div align="center">
-
-![Computer Science Degree](https://img.shields.io/badge/Computer%20Science-Bachelor's%20Degree-28A745?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Academic Grade](https://img.shields.io/badge/Academic%20Achievement-Excellent%20Grade-FFD700?style=for-the-badge&logo=star&logoColor=black)
-
-</div>
-
-**Higher Institute of Management and Information Technology (HIMIT)**  
-*September 2019 – July 2023* | *Kafr El Sheikh, Egypt*
-
-**Capstone Project:** BodyFit Mobile Application  
-*Flutter-based comprehensive health and wellness mobile platform*
-
-</td>
-<td width="50%">
-
-**Professional Certification Program**
-
-<div align="center">
-
-![AWS re/Start](https://img.shields.io/badge/AWS%20re/Start-Cloud%20%26%20DevOps%20Program-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ITI Graduate](https://img.shields.io/badge/ITI%20Graduate-Information%20Technology%20Institute-0066CC?style=for-the-badge&logo=building&logoColor=white)
-
-</div>
-
-**Information Technology Institute (ITI)**  
-*March 2025 – June 2025*
-
-<div align="center">
-
-![Training Hours](https://img.shields.io/badge/Training%20Hours-360%20Hour%20Intensive-4CAF50?style=for-the-badge&logo=clock&logoColor=white)
-![AWS Certification](https://img.shields.io/badge/AWS%20Services-EC2%20|%20S3%20|%20IAM%20|%20VPC-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</div>
-
-</td>
-</tr>
-</table>
-
-**Professional Training Curriculum:**
-- **AWS Cloud Infrastructure**: EC2, S3, IAM, VPC, CloudWatch, Lambda, and advanced services
-- **Linux System Administration**: Network configuration, security hardening, automation scripting
-- **DevOps Pipeline Engineering**: Complete CI/CD implementation with GitOps methodologies
-- **Cloud Architecture & Design**: Deployment strategies, scalability patterns, cost optimization
-- **Leadership & Collaboration**: Technical team leadership, agile methodologies, problem-solving
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=18&height=80&text=Enterprise%20Project%20Portfolio&fontSize=26&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
-
-<table>
-<tr>
-<td width="50%">
-
-**E-Commerce Platform with Full DevOps Automation**  
-*ITI Final Project | June 2025*
-
-<div align="center">
-
-![AWS Infrastructure](https://img.shields.io/badge/AWS-Infrastructure-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Terraform IaC](https://img.shields.io/badge/Terraform-IaC-623CE4?style=flat&logo=terraform&logoColor=white)
-![Ansible Config](https://img.shields.io/badge/Ansible-Config%20Mgmt-EE0000?style=flat&logo=ansible&logoColor=white)
-![Docker Container](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white)
-![Jenkins CI/CD](https://img.shields.io/badge/Jenkins-CI%2FCD-D24939?style=flat&logo=jenkins&logoColor=white)
-![ArgoCD GitOps](https://img.shields.io/badge/ArgoCD-GitOps-EF7B4D?style=flat&logo=argo&logoColor=white)
-![Amazon EKS](https://img.shields.io/badge/EKS-Orchestration-FF9900?style=flat&logo=amazon-eks&logoColor=white)
-
-</div>
-
-**Technical Implementation:**
-- **Infrastructure Automation**: Complete AWS infrastructure provisioning using Terraform
-- **Configuration Management**: Ansible playbooks for automated server configuration  
-- **Container Orchestration**: Docker containerization with Amazon EKS deployment
-- **CI/CD Pipeline**: Jenkins automation with ArgoCD GitOps implementation
-- **Monitoring & Security**: Integrated monitoring, logging, and security scanning
-- **Performance Achievement**: 99.9% uptime with automated scaling and disaster recovery
-
-</td>
-<td width="50%">
-
-**Islamic Application with Complete DevOps Pipeline**  
-*Full-Stack Development & Deployment | May 2025 – June 2025*
-
-<div align="center">
-
-![React Frontend](https://img.shields.io/badge/React-Frontend-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Flask API](https://img.shields.io/badge/Flask-REST%20API-000000?style=flat&logo=flask&logoColor=white)
-![PostgreSQL DB](https://img.shields.io/badge/PostgreSQL-Database-316192?style=flat&logo=postgresql&logoColor=white)
-![Kubeadm K8s](https://img.shields.io/badge/Kubeadm-Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Trivy Security](https://img.shields.io/badge/Trivy-Security%20Scan-1904DA?style=flat&logo=trivy&logoColor=white)
-
-</div>
-
-**Technical Implementation:**
-- **Full-Stack Architecture**: React frontend, Flask REST API, PostgreSQL database
-- **Self-Managed Kubernetes**: Kubeadm cluster setup and management from scratch
-- **DevSecOps Integration**: Trivy container image vulnerability scanning
-- **Complete Automation**: End-to-end CI/CD with Jenkins and ArgoCD deployment
-- **Best Practices**: GitOps workflows, infrastructure security, automated testing
-- **Production Ready**: Scalable architecture with comprehensive monitoring
+**Professional CV**
 
 </td>
 </tr>
@@ -303,391 +54,484 @@
 
 ---
 
+## About Me
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%">
-
-**Current Certifications & Training**
-
-<div align="center">
-
-![AWS re/Start Completed](https://img.shields.io/badge/AWS%20re/Start-Completed%20✓-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![ITI Graduate](https://img.shields.io/badge/ITI%20DevOps-Graduate%20✓-0066CC?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Computer Science](https://img.shields.io/badge/B.Sc%20Computer%20Science-Excellent%20Grade-28A745?style=for-the-badge&logo=university&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Available_for_Hire-28A745?style=for-the-badge&logo=circle&logoColor=white)
+![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-2563EB?style=for-the-badge&logo=map-pin&logoColor=white)
+![Experience](https://img.shields.io/badge/Level-Junior_Professional-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white)
 
 </div>
 
----
-
-
-<div align="center">
-
-**DevOps Articles & Technical Documentation**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-[![Medium](https://img.shields.io/badge/Medium-Technical%20Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@khaledhawil)
-
-**Latest Articles:**
-- "AWS EKS Setup Guide"
-- "Jenkins CI/CD Best Practices"
-- "Terraform State Management"
-
-</td>
-<td align="center" width="33%">
-
-[![Dev.to](https://img.shields.io/badge/Dev.to-DevOps%20Community-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/khaledhawil)
-
-**Community Posts:**
-- "Docker Security Scanning"
-- "Kubernetes Troubleshooting"
-- "Infrastructure Monitoring"
-
-</td>
-
-</tr>
-</table>
-
-</div>
-
-<div align="center">
-
----
-
-
-<div align="center">
+<br>
 
 <table>
 <tr>
 <td width="60%">
 
-### Technical Skills
+### Professional Summary
 
-![System Administration](https://img.shields.io/badge/Linux%20System%20Admin-Advanced-FF6B6B?style=flat-square&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/AWS%20Cloud%20Services-Intermediate-4ECDC4?style=flat-square&logoColor=white)
-![Containerization](https://img.shields.io/badge/Docker%20%26%20K8s-Proficient-45B7D1?style=flat-square&logoColor=white)
-![CI/CD](https://img.shields.io/badge/Jenkins%20%26%20ArgoCD-Hands--on-96CEB4?style=flat-square&logoColor=white)
-![IaC](https://img.shields.io/badge/Terraform%20%26%20Ansible-Learning-FFEAA7?style=flat-square&logoColor=black)
-![Monitoring](https://img.shields.io/badge/Prometheus%20%26%20Grafana-Familiar-DDA0DD?style=flat-square&logoColor=white)
+**DevOps Engineer** with specialized expertise in **AWS cloud infrastructure**, **containerization technologies**, and **CI/CD automation**. Recent **Computer Science graduate** with **excellent academic performance** and comprehensive training from the **AWS re/Start Program** at Information Technology Institute (ITI).
 
-### Soft Skills
+**Core Competencies:**
+- **Cloud Architecture**: Designing and implementing scalable AWS infrastructure solutions
+- **Container Orchestration**: Kubernetes cluster management and Docker containerization
+- **Automation & CI/CD**: Building robust deployment pipelines with Jenkins and ArgoCD
+- **Infrastructure as Code**: Terraform provisioning and Ansible configuration management
+- **Security Integration**: Implementing vulnerability scanning and AWS security best practices
 
-![Leadership](https://img.shields.io/badge/Leadership-Strong-FF6B6B?style=flat-square&logoColor=white)
-![Team Collaboration](https://img.shields.io/badge/Team%20Collaboration-Excellent-4ECDC4?style=flat-square&logoColor=white)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-Analytical-45B7D1?style=flat-square&logoColor=white)
-![Adaptability](https://img.shields.io/badge/Quick%20Learner-Fast%20Adaptation-96CEB4?style=flat-square&logoColor=white)
-![Communication](https://img.shields.io/badge/Communication-Clear%20%26%20Technical-FFEAA7?style=flat-square&logoColor=black)
-
-### Languages
-
-![Arabic](https://img.shields.io/badge/Arabic-Native%20Speaker-28A745?style=flat-square&logoColor=white)
-![English](https://img.shields.io/badge/English-Proficient-007BFF?style=flat-square&logoColor=white)
+**Educational Background:**
+- **Bachelor of Computer Science** - Excellent Grade (HIMIT, 2019-2023)
+- **AWS re/Start Program Graduate** - ITI (360+ hours intensive training)
+- **Military Service** - Successfully completed
 
 </td>
-<td width="40%">
-
-**Professional Performance Metrics**
+<td width="40%" align="center">
 
 <div align="center">
 
-![Projects Completed](https://img.shields.io/badge/Projects%20Completed-2%20Major-success?style=for-the-badge&logo=check-circle&logoColor=white)
-![System Uptime](https://img.shields.io/badge/System%20Uptime-99.9%25-success?style=for-the-badge&logo=server&logoColor=white)
-![Deployment Success](https://img.shields.io/badge/Deployment%20Success-100%25-success?style=for-the-badge&logo=rocket&logoColor=white)
-![Learning Hours](https://img.shields.io/badge/Training%20Hours-360%2B-blue?style=for-the-badge&logo=clock&logoColor=white)
+![Professional Metrics](https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=374151&icon_color=2563EB&hide=stars&count_private=true)
 
 </div>
 
-**Technical Achievements:**
+<br>
 
-- **AWS Infrastructure**: Successfully deployed production-grade e-commerce platform
-- **Container Orchestration**: Managed Kubernetes clusters with 99.9% uptime
-- **CI/CD Excellence**: Implemented automated pipelines with zero-downtime deployments
-- **Security Integration**: Integrated Trivy scanning with 100% vulnerability detection
-- **Monitoring Setup**: Configured Prometheus & Grafana for comprehensive observability
+**Key Achievements**
 
-**Growth Trajectory:**
+![Projects](https://img.shields.io/badge/Major_Projects-2_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
 
-![2025](https://img.shields.io/badge/2025-AWS%20Training%20%26%20Projects-FF9900?style=flat-square&logo=trending-up&logoColor=white)
-![Future](https://img.shields.io/badge/2026-Senior%20DevOps%20Engineer-0066CC?style=flat-square&logo=target&logoColor=white)
+![Uptime](https://img.shields.io/badge/System_Uptime-99.9%25-28A745?style=flat&logo=server&logoColor=white)
+
+![Training](https://img.shields.io/badge/Training_Hours-360%2B-2563EB?style=flat&logo=clock&logoColor=white)
+
+![Success](https://img.shields.io/badge/Deployment_Rate-100%25-28A745?style=flat&logo=rocket&logoColor=white)
 
 </td>
 </tr>
 </table>
 
-</div>
-
-</div>
-
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=9&height=60&text=GitHub%20Analytics&fontSize=24&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
+## Technical Expertise
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+![Tech Stack](https://img.shields.io/badge/Technology_Stack-Production_Ready-2563EB?style=for-the-badge&logo=stack-overflow&logoColor=white)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhawil&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&theme=radical&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=C9D1D9)
+### Cloud & Infrastructure
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=khaledhawil&theme=react-dark&hide_border=true&area=true&color=58A6FF&point=C9D1D9)
+<div align="center">
+
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![EKS](https://img.shields.io/badge/Amazon_EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![RDS](https://img.shields.io/badge/Amazon_RDS-527FFF?style=for-the-badge&logo=amazon-rds&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+
+</div>
+
+### Containers & Orchestration
+
+<div align="center">
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+
+</div>
+
+### CI/CD & Automation
+
+<div align="center">
+
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
+
+### Monitoring & Security
+
+<div align="center">
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+
+</div>
+
+### Development & Scripting
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+### Proficiency Matrix
+
+<div align="center">
+
+| Technology Domain | Skill Level | Experience | Certification |
+|:------------------|:-----------:|:----------:|:-------------:|
+| **AWS Cloud Services** | ![Expert](https://img.shields.io/badge/Expert-90%25-28A745?style=flat) | Production | AWS re/Start |
+| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 4+ Years | Self-taught |
+| **Docker & Kubernetes** | ![Advanced](https://img.shields.io/badge/Advanced-85%25-2563EB?style=flat) | Real Projects | Hands-on |
+| **CI/CD Pipelines** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-2563EB?style=flat) | Live Systems | Jenkins + ArgoCD |
+| **Infrastructure as Code** | ![Proficient](https://img.shields.io/badge/Proficient-75%25-7C3AED?style=flat) | Project-based | Terraform + Ansible |
 
 </div>
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3&height=60&text=DevOps%20Command%20Reference&fontSize=24&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
+## Featured Projects
 
-<details>
-<summary><strong>Linux System Administration Commands</strong></summary>
+<div align="center">
 
-```bash
-# System Monitoring
-htop                    # Interactive process viewer
-iostat -x 1            # I/O statistics
-netstat -tulpn          # Network connections
-ss -tuln                # Socket statistics
-lsof -i :80             # List open files/ports
-ps aux --sort=-%cpu     # Process list by CPU usage
-df -h                   # Disk space usage
-du -sh /path/*          # Directory sizes
-vmstat 1                # Virtual memory stats
-sar -u 1 10            # System activity reporter
+![Projects](https://img.shields.io/badge/Featured_Projects-Production_Ready-FF6B35?style=for-the-badge&logo=project-diagram&logoColor=white)
 
-# File Operations
-find /path -name "*.log" -mtime +7 -delete    # Find and delete old logs
-grep -r "error" /var/log/                      # Search in log files
-sed 's/old/new/g' file.txt                     # Replace text in file
-awk '{print $1,$4}' access.log                # Extract columns
-rsync -avz source/ dest/                       # Sync directories
-tar -czf backup.tar.gz /data/                  # Create compressed archive
+</div>
 
-# Network Troubleshooting
-ping -c 4 google.com           # Test connectivity
-traceroute google.com          # Trace network path
-nslookup domain.com            # DNS lookup
-dig domain.com MX              # DNS query
-curl -I http://example.com     # HTTP headers
-wget -O file.zip http://url    # Download file
+<table>
+<tr>
+<td width="33%">
 
-# Service Management
-systemctl status nginx         # Check service status
-systemctl enable nginx         # Enable service at boot
-systemctl restart nginx        # Restart service
-journalctl -u nginx -f         # Follow service logs
-crontab -e                     # Edit scheduled tasks
-```
+### E-Commerce DevOps Platform
 
-</details>
+<div align="center">
 
-<details>
-<summary><strong>Docker Container Management</strong></summary>
+![Project Status](https://img.shields.io/badge/Status-Production_Ready-28A745?style=for-the-badge&logo=check-circle&logoColor=white)
 
-```bash
-# Container Lifecycle
-docker run -d --name webapp -p 80:80 nginx:latest    # Run container
-docker ps -a                                         # List all containers
-docker logs webapp                                   # View container logs
-docker exec -it webapp /bin/bash                     # Access container shell
-docker stop webapp                                   # Stop container
-docker start webapp                                  # Start container
-docker rm webapp                                     # Remove container
-docker restart webapp                                # Restart container
+</div>
 
-# Image Management
-docker build -t myapp:v1.0 .                        # Build image
-docker images                                        # List images
-docker pull nginx:alpine                             # Pull image
-docker push myregistry/myapp:v1.0                    # Push to registry
-docker rmi image_id                                  # Remove image
-docker tag myapp:v1.0 myapp:latest                   # Tag image
+**Enterprise-grade e-commerce platform with complete DevOps automation**
 
-# Docker Compose
-docker-compose up -d                                 # Start services
-docker-compose down                                  # Stop and remove
-docker-compose ps                                    # List services
-docker-compose logs -f webapp                        # Follow logs
-docker-compose exec webapp bash                      # Execute command
+**Technology Stack:**
 
-# Cleanup
-docker system prune -a          # Remove unused images/containers
-docker volume prune              # Remove unused volumes
-docker network prune             # Remove unused networks
-```
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
-</details>
+**Key Achievements:**
+- ![Infrastructure](https://img.shields.io/badge/Infrastructure-100%25_Automated-28A745?style=flat-square) Complete AWS infrastructure automation
+- ![Deployment](https://img.shields.io/badge/Deployment-Zero_Downtime-28A745?style=flat-square) EKS with rolling deployments
+- ![Pipeline](https://img.shields.io/badge/Pipeline-GitOps_Enabled-2563EB?style=flat-square) Full CI/CD automation
+- ![Monitoring](https://img.shields.io/badge/Monitoring-Real_Time-FF6B35?style=flat-square) Prometheus & Grafana stack
 
-<details>
-<summary><strong>Kubernetes Cluster Operations</strong></summary>
+<div align="center">
 
-```bash
-# Cluster Information
-kubectl cluster-info                    # Cluster details
-kubectl get nodes -o wide               # List nodes
-kubectl describe node node-name         # Node details
-kubectl top nodes                       # Node resource usage
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ecommerce-devops-platform)
 
-# Pod Management
-kubectl get pods -A                     # List all pods
-kubectl describe pod pod-name           # Pod details
-kubectl logs -f pod-name                # Follow pod logs
-kubectl exec -it pod-name -- /bin/bash  # Access pod shell
-kubectl delete pod pod-name             # Delete pod
-kubectl get pods -o wide                # Pods with node info
+</div>
 
-# Deployments
-kubectl create deployment nginx --image=nginx:latest     # Create deployment
-kubectl get deployments                                  # List deployments
-kubectl scale deployment nginx --replicas=3              # Scale deployment
-kubectl set image deployment/nginx nginx=nginx:alpine    # Update image
-kubectl rollout status deployment/nginx                  # Check rollout
-kubectl rollout undo deployment/nginx                    # Rollback
+</td>
+<td width="33%">
 
-# Services and Networking
-kubectl expose deployment nginx --port=80 --type=LoadBalancer  # Expose service
-kubectl get services                                           # List services
-kubectl get ingress                                            # List ingress rules
-kubectl port-forward pod/nginx-pod 8080:80                     # Port forwarding
+### WeatherApp CI/CD Pipeline
 
-# Configuration
-kubectl apply -f deployment.yaml        # Apply configuration
-kubectl get configmaps                  # List config maps
-kubectl get secrets                     # List secrets
-kubectl create secret generic mysecret --from-literal=key=value
-```
+<div align="center">
 
-</details>
+![Project Status](https://img.shields.io/badge/Status-Production_Deployed-28A745?style=for-the-badge&logo=cloud&logoColor=white)
 
-<details>
-<summary><strong>AWS CLI Commands</strong></summary>
+</div>
 
-```bash
-# EC2 Management
-aws ec2 describe-instances                                    # List instances
-aws ec2 start-instances --instance-ids i-1234567890abcdef0    # Start instance
-aws ec2 stop-instances --instance-ids i-1234567890abcdef0     # Stop instance
-aws ec2 create-security-group --group-name MySecurityGroup --description "My security group"
-aws ec2 authorize-security-group-ingress --group-id sg-123 --protocol tcp --port 80 --cidr 0.0.0.0/0
+**Cloud-native microservices weather application with complete GitOps workflow**
 
-# S3 Storage
-aws s3 ls                               # List buckets
-aws s3 ls s3://bucket-name/             # List bucket contents
-aws s3 cp file.txt s3://bucket-name/    # Upload file
-aws s3 cp s3://bucket-name/file.txt .   # Download file
-aws s3 sync ./local-folder s3://bucket-name/folder/  # Sync directory
-aws s3 mb s3://new-bucket-name          # Create bucket
+**Technology Stack:**
 
-# IAM Management
-aws iam list-users                      # List users
-aws iam list-roles                      # List roles
-aws iam create-user --user-name newuser # Create user
-aws iam attach-user-policy --user-name newuser --policy-arn arn:aws:iam::aws:policy/ReadOnlyAccess
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 
-# CloudWatch
-aws logs describe-log-groups            # List log groups
-aws logs tail /aws/lambda/function-name --follow  # Tail logs
-aws cloudwatch get-metric-statistics --namespace AWS/EC2 --metric-name CPUUtilization
-```
+**Key Achievements:**
+- ![Microservices](https://img.shields.io/badge/Architecture-Microservices-2563EB?style=flat-square) Go, Python, Node.js services
+- ![CI/CD](https://img.shields.io/badge/CI/CD-Selective_Building-FF6B35?style=flat-square) GitHub Actions automation
+- ![GitOps](https://img.shields.io/badge/GitOps-ArgoCD_Deployment-EF7B4D?style=flat-square) Complete GitOps workflow
+- ![Cloud](https://img.shields.io/badge/Cloud-DigitalOcean_K8s-0080FF?style=flat-square) Production cloud deployment
 
-</details>
+<div align="center">
 
-<details>
-<summary><strong>CI/CD Pipeline Examples</strong></summary>
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/WeatherApp-CI-CD-Pipeline)
 
-```groovy
-// Jenkins Pipeline (Jenkinsfile)
-pipeline {
-    agent any
-    
-    environment {
-        DOCKER_REGISTRY = 'your-registry.com'
-        IMAGE_NAME = 'myapp'
-        IMAGE_TAG = "${BUILD_NUMBER}"
-    }
-    
-    stages {
-        stage('Checkout') {
-            steps {
-                git branch: 'main', url: 'https://github.com/user/repo.git'
-            }
-        }
-        
-        stage('Build') {
-            steps {
-                sh 'docker build -t ${IMAGE_NAME}:${IMAGE_TAG} .'
-                sh 'docker tag ${IMAGE_NAME}:${IMAGE_TAG} ${DOCKER_REGISTRY}/${IMAGE_NAME}:${IMAGE_TAG}'
-            }
-        }
-        
-        stage('Test') {
-            steps {
-                sh 'docker run --rm ${IMAGE_NAME}:${IMAGE_TAG} npm test'
-            }
-        }
-        
-        stage('Security Scan') {
-            steps {
-                sh 'trivy image ${IMAGE_NAME}:${IMAGE_TAG}'
-            }
-        }
-        
-        stage('Push') {
-            steps {
-                sh 'docker push ${DOCKER_REGISTRY}/${IMAGE_NAME}:${IMAGE_TAG}'
-            }
-        }
-        
-        stage('Deploy') {
-            steps {
-                sh '''
-                    kubectl set image deployment/myapp myapp=${DOCKER_REGISTRY}/${IMAGE_NAME}:${IMAGE_TAG}
-                    kubectl rollout status deployment/myapp
-                '''
-            }
-        }
-    }
-    
-    post {
-        always {
-            sh 'docker system prune -f'
-        }
-    }
-}
-```
+</div>
 
-```bash
-# Terraform Infrastructure Commands
-terraform init                    # Initialize Terraform
-terraform plan                    # Show execution plan
-terraform apply                   # Apply changes
-terraform destroy                 # Destroy infrastructure
-terraform state list              # List resources in state
-terraform output                  # Show output values
-terraform fmt                     # Format configuration files
-terraform validate                # Validate configuration
+</td>
+<td width="33%">
 
-# Ansible Configuration Management
-ansible-playbook -i inventory playbook.yml              # Run playbook
-ansible all -m ping -i inventory                        # Test connectivity
-ansible-playbook --check playbook.yml                   # Dry run
-ansible-vault encrypt secrets.yml                       # Encrypt file
-ansible-galaxy install geerlingguy.nginx                # Install role
-ansible-inventory --list -i inventory                   # List inventory
-```
+### Islamic Application DevOps Pipeline
 
-</details>
+<div align="center">
+
+![Project Status](https://img.shields.io/badge/Status-Fully_Deployed-28A745?style=for-the-badge&logo=rocket&logoColor=white)
+
+</div>
+
+**Full-stack application with comprehensive DevOps implementation**
+
+**Technology Stack:**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
+
+**Key Achievements:**
+- ![Frontend](https://img.shields.io/badge/Frontend-React_SPA-61DAFB?style=flat-square) Modern React application
+- ![Backend](https://img.shields.io/badge/Backend-Flask_REST_API-28A745?style=flat-square) Scalable Python backend
+- ![Orchestration](https://img.shields.io/badge/K8s-Self_Managed_Cluster-326CE5?style=flat-square) Kubeadm deployment
+- ![Security](https://img.shields.io/badge/Security-Vulnerability_Scanning-DC2626?style=flat-square) Trivy integration
+
+<div align="center">
+
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/islamic-app-devops)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Education & Certifications
+
+<div align="center">
+
+![Education](https://img.shields.io/badge/Educational_Excellence-Academic_%26_Professional-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=black)
+
+</div>
+
+<table>
+<tr>
+<td width="50%">
+
+### Professional Certifications
+
+<div align="center">
+
+![AWS re/Start](https://img.shields.io/badge/AWS_re/Start-Program_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+![ITI](https://img.shields.io/badge/ITI_DevOps-Specialist_Certificate-0066CC?style=for-the-badge&logo=certificate&logoColor=white)
+
+</div>
+
+**Information Technology Institute (ITI)**
+
+![Training](https://img.shields.io/badge/Training_Duration-360%2B_Hours-2563EB?style=flat&logo=clock&logoColor=white)
+![Completion](https://img.shields.io/badge/Status-Successfully_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
+
+**Program Highlights:**
+- ![AWS](https://img.shields.io/badge/AWS-Cloud_Services_Mastery-FF9900?style=flat-square) Comprehensive AWS training
+- ![DevOps](https://img.shields.io/badge/DevOps-Methodologies_%26_Best_Practices-0066CC?style=flat-square) Industry methodologies
+- ![Hands-on](https://img.shields.io/badge/Experience-Real_World_Projects-28A745?style=flat-square) Practical implementation
+- ![Certification](https://img.shields.io/badge/Achievement-Industry_Recognition-FFD700?style=flat-square) Professional validation
+
+</td>
+<td width="50%">
+
+### Academic Background
+
+<div align="center">
+
+![Degree](https://img.shields.io/badge/Bachelor's_Degree-Computer_Science-28A745?style=for-the-badge&logo=university&logoColor=white)
+
+![Grade](https://img.shields.io/badge/Academic_Performance-Excellent_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+
+</div>
+
+**Higher Institute of Management & IT (HIMIT)**
+
+![Duration](https://img.shields.io/badge/Duration-2019--2023-2563EB?style=flat&logo=calendar&logoColor=white)
+![Achievement](https://img.shields.io/badge/Performance-Excellent_Academic_Record-FFD700?style=flat&logo=star&logoColor=black)
+
+**Academic Excellence:**
+- ![Foundation](https://img.shields.io/badge/Foundation-Strong_CS_Fundamentals-2563EB?style=flat-square) Core computer science
+- ![Capstone](https://img.shields.io/badge/Capstone-BodyFit_Mobile_Application-28A745?style=flat-square) Final project
+- ![Skills](https://img.shields.io/badge/Skills-Software_Development-7C3AED?style=flat-square) Programming expertise
+- ![Achievement](https://img.shields.io/badge/Recognition-Consistent_Excellence-FFD700?style=flat-square) Academic honors
+
+</td>
+</tr>
+</table>
+
+**Future Certification Goals:**
+
+<div align="center">
+
+![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-Target_2025-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-Planned_2025-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![HashiCorp](https://img.shields.io/badge/Terraform_Associate-Future_Goal-7B42BC?style=flat&logo=terraform&logoColor=white)
+
+</div>
+
+---
+
+## GitHub Analytics
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=374151&icon_color=2563EB&count_private=true)
+
+</td>
+<td width="50%">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaledhawil&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=374151&count_private=true)
+
+</td>
+</tr>
+</table>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&theme=default&hide_border=true&background=ffffff&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB&sideLabels=374151&dates=374151)
+
+</div>
+
+---
+
+## Career Vision
+
+<div align="center">
+
+![Career](https://img.shields.io/badge/Career_Roadmap-Strategic_Professional_Growth-7C3AED?style=for-the-badge&logo=target&logoColor=white)
+
+</div>
+
+<table>
+<tr>
+<td width="33%" align="center">
+
+### Immediate Goals (2025)
+
+![Target](https://img.shields.io/badge/Target-Junior_DevOps_Engineer-FF6B35?style=for-the-badge&logo=bullseye&logoColor=white)
+
+**Focus Areas:**
+
+![Role](https://img.shields.io/badge/Position-DevOps_Engineer_Role-2563EB?style=flat-square)
+![Enterprise](https://img.shields.io/badge/Environment-Enterprise_Projects-28A745?style=flat-square)
+![Certification](https://img.shields.io/badge/Growth-AWS_Certifications-FF9900?style=flat-square)
+![Skills](https://img.shields.io/badge/Development-Advanced_K8s-326CE5?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+### Medium Term (2026-2027)
+
+![Evolution](https://img.shields.io/badge/Evolution-Senior_Expertise-0066CC?style=for-the-badge&logo=trending-up&logoColor=white)
+
+**Development Goals:**
+
+![Leadership](https://img.shields.io/badge/Role-Technical_Leadership-7C3AED?style=flat-square)
+![Mentoring](https://img.shields.io/badge/Impact-Team_Mentoring-FF6B35?style=flat-square)
+![Architecture](https://img.shields.io/badge/Focus-Cloud_Architecture-2563EB?style=flat-square)
+![Innovation](https://img.shields.io/badge/Drive-DevOps_Innovation-DC2626?style=flat-square)
+
+</td>
+<td width="33%" align="center">
+
+### Long Term (2028+)
+
+![Vision](https://img.shields.io/badge/Vision-Technical_Leadership-28A745?style=for-the-badge&logo=crown&logoColor=white)
+
+**Leadership Aspirations:**
+
+![Director](https://img.shields.io/badge/Position-DevOps_Team_Lead-28A745?style=flat-square)
+![Architect](https://img.shields.io/badge/Role-Solutions_Architect-0066CC?style=flat-square)
+![Influence](https://img.shields.io/badge/Impact-Industry_Thought_Leader-7C3AED?style=flat-square)
+![Innovation](https://img.shields.io/badge/Drive-Technology_Innovation-FF6B35?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Network
+
+<div align="center">
+
+![Network](https://img.shields.io/badge/Professional_Networking-Open_to_Connect-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)
+
+**Let's discuss DevOps innovations, cloud technologies, and potential collaborations**
+
+</div>
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+**Professional Connections**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledhawil)
+
+Connect for professional networking
+
+</td>
+<td width="25%" align="center">
+
+**Direct Communication**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhawil91@gmail.com)
+
+Business inquiries welcome
+
+</td>
+<td width="25%" align="center">
+
+**Instant Contact**
+
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
+
+Direct line for urgent matters
+
+</td>
+<td width="25%" align="center">
+
+**Current Status**
+
+![Available](https://img.shields.io/badge/Available-For_Opportunities-28A745?style=for-the-badge&logo=briefcase&logoColor=white)
+
+Open to new challenges
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+**Areas of Interest:**
+
+![DevOps](https://img.shields.io/badge/DevOps_Consulting-4ECDC4?style=flat&logo=infinity&logoColor=white)
+![Cloud](https://img.shields.io/badge/Cloud_Migration-FF9900?style=flat&logo=amazon-aws&logoColor=white)
+![Mentoring](https://img.shields.io/badge/Knowledge_Sharing-7C3AED?style=flat&logo=graduation-cap&logoColor=white)
+![Innovation](https://img.shields.io/badge/Technology_Innovation-2563EB?style=flat&logo=lightbulb&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
+
+</div>
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=60&text=Let's%20Connect%20%26%20Collaborate&fontSize=24&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
-
+![Profile Views](https://komarev.com/ghpvc/?username=khaledhawil&color=2563EB&style=for-the-badge&label=Profile+Views)
 ### Ready to Contribute as Junior DevOps Engineer
 
 > *"Fast learner with a strong DevOps mindset, focused on building reliable, scalable systems and excelling in collaborative team environments."*
@@ -695,11 +539,6 @@ ansible-inventory --list -i inventory                   # List inventory
 **Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
 **Experience Level:** Fresh graduate with intensive hands-on training  
 **Availability:** Open to relocation and remote work opportunities
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledhawil)
-[![GitHub](https://img.shields.io/badge/GitHub%20Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil)
-[![Email](https://img.shields.io/badge/Email%20Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khaledhawil91@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
 
 </div>
 
