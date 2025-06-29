@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" alt="Typing SVG" />
 </div>
 
 
@@ -13,7 +13,7 @@
 
 </div>
 
-## Contact & Professional Links
+## Contact &  Links
 
 <div align="center">
 
@@ -23,7 +23,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2)](https://linkedin.com/in/khaledhawil)
 
-**Professional Network**
+**IN**
 
 </td>
 <td align="center" width="25%">
@@ -44,7 +44,7 @@
 
 [![CV Download](https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelColor=FF6B35)](https://github.com/khaledhawil/khaledhawil/raw/main/KhaledHawil-CV-DevOps.pdf)
 
-**Professional CV**
+**CV**
 
 </td>
 </tr>
@@ -60,7 +60,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Available_for_Hire-28A745?style=for-the-badge&logo=circle&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-2563EB?style=for-the-badge&logo=map-pin&logoColor=white)
-![Experience](https://img.shields.io/badge/Level-Junior_Professional-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white)
+![Experience](https://img.shields.io/badge/Level-Junior-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white)
 
 </div>
 
@@ -70,7 +70,7 @@
 <tr>
 <td width="60%">
 
-### Professional Summary
+### Summary
 
 **DevOps Engineer** with specialized expertise in **AWS cloud infrastructure**, **containerization technologies**, and **CI/CD automation**. Recent **Computer Science graduate** with **excellent academic performance** and comprehensive training from the **AWS re/Start Program** at Information Technology Institute (ITI).
 
@@ -99,7 +99,7 @@
 
 **Key Achievements**
 
-![Projects](https://img.shields.io/badge/Major_Projects-2_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
+![Projects](https://img.shields.io/badge/Major_Projects-3_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
 
 ![Uptime](https://img.shields.io/badge/System_Uptime-99.9%25-28A745?style=flat&logo=server&logoColor=white)
 
@@ -183,10 +183,10 @@
 
 <div align="center">
 
-| Technology Domain | Skill Level | Experience | Certification |
+| Technology Domain | Skill Level | Experience | Leaning Path |
 |:------------------|:-----------:|:----------:|:-------------:|
 | **AWS Cloud Services** | ![Expert](https://img.shields.io/badge/Expert-90%25-28A745?style=flat) | Production | AWS re/Start |
-| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 4+ Years | Self-taught |
+| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 1+ Years | Self-taught |
 | **Docker & Kubernetes** | ![Advanced](https://img.shields.io/badge/Advanced-85%25-2563EB?style=flat) | Real Projects | Hands-on |
 | **CI/CD Pipelines** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-2563EB?style=flat) | Live Systems | Jenkins + ArgoCD |
 | **Infrastructure as Code** | ![Proficient](https://img.shields.io/badge/Proficient-75%25-7C3AED?style=flat) | Project-based | Terraform + Ansible |
@@ -539,6 +539,7 @@ Open to new challenges
 **Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
 **Experience Level:** Fresh graduate with intensive hands-on training  
 **Availability:** Open to relocation and remote work opportunities
+[![Phone](https://img.shields.io/badge/Phone%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
 
 </div>
 
@@ -546,39 +547,40 @@ Open to new challenges
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=80&text=Daily%20DevOps%20Wisdom&fontSize=26&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=80&text=DevOps%20Philosophy&fontSize=26&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
 
-### Random DevOps Advice
+### Professional DevOps Principles
 
 <div align="center">
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=The%20best%20way%20to%20learn%20DevOps%20is%20to%20break%20things%20in%20production%20and%20fix%20them%20quickly.%20But%20the%20smarter%20way%20is%20to%20break%20things%20in%20development%20and%20prevent%20them%20from%20reaching%20production.&author=DevOps%20Philosophy)
+**Core DevOps Values:**
+
+![Culture](https://img.shields.io/badge/Culture-Collaboration%20over%20Silos-DC2626?style=flat-square&logo=handshake&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Efficiency%20over%20Manual%20Work-2563EB?style=flat-square&logo=gear&logoColor=white)
+![Measurement](https://img.shields.io/badge/Measurement-Data%20over%20Assumptions-28A745?style=flat-square&logo=chart-line&logoColor=white)
+![Sharing](https://img.shields.io/badge/Sharing-Knowledge%20over%20Hoarding-FF6B35?style=flat-square&logo=share&logoColor=white)
 
 </div>
 
-<div align="center">
-
-**Professional DevOps Insights:**
-
 <table>
 <tr>
-<td align="center">
+<td align="center" width="33%">
 
-![Automation](https://img.shields.io/badge/Automation-Reduce%20Manual%20Work-blue?style=for-the-badge&logo=robot&logoColor=white)
+![Automation](https://img.shields.io/badge/Automation-Reduce%20Manual%20Work-2563EB?style=for-the-badge&logo=robot&logoColor=white)
 
 *"Automate everything that can be automated, monitor everything that runs, and document everything that matters."*
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-![Monitoring](https://img.shields.io/badge/Monitoring-Observe%20Everything-green?style=for-the-badge&logo=grafana&logoColor=white)
+![Monitoring](https://img.shields.io/badge/Monitoring-Observe%20Everything-28A745?style=for-the-badge&logo=grafana&logoColor=white)
 
 *"You can't improve what you don't measure. Metrics are the foundation of reliability."*
 
 </td>
-<td align="center">
+<td align="center" width="33%">
 
-![Continuous Learning](https://img.shields.io/badge/Learning-Never%20Stop-orange?style=for-the-badge&logo=book&logoColor=white)
+![Learning](https://img.shields.io/badge/Learning-Never%20Stop-FF6B35?style=for-the-badge&logo=book&logoColor=white)
 
 *"In DevOps, the moment you stop learning is the moment you become obsolete."*
 
@@ -587,30 +589,6 @@ Open to new challenges
 </table>
 
 </div>
-
-**Random DevOps Wisdom API:**
-
-<div align="center">
-
-[![Advice](https://api.adviceslip.com/advice)](https://api.adviceslip.com/advice)
-
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Infrastructure%20as%20Code%20is%20not%20just%20about%20automation%20-%20it's%20about%20treating%20your%20infrastructure%20with%20the%20same%20discipline%20as%20your%20application%20code.&author=DevOps%20Best%20Practice)
-
-</div>
-
-**DevOps Principles to Live By:**
-
-<div align="center">
-
-![Culture](https://img.shields.io/badge/Culture-Collaboration%20over%20Silos-red?style=flat-square&logo=handshake&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-Efficiency%20over%20Manual%20Work-blue?style=flat-square&logo=gear&logoColor=white)
-![Measurement](https://img.shields.io/badge/Measurement-Data%20over%20Assumptions-green?style=flat-square&logo=chart-line&logoColor=white)
-![Sharing](https://img.shields.io/badge/Sharing-Knowledge%20over%20Hoarding-orange?style=flat-square&logo=share&logoColor=white)
-
-</div>
-
-</div>
-</table>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
