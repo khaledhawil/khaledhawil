@@ -219,7 +219,7 @@
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ecommerce-devops-platform)
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ITI-Project)
 
 </div>
 
@@ -285,7 +285,7 @@
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/islamic-app-devops)
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/Full-DevOps-Project-islamic-app)
 
 </div>
 
