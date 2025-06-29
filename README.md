@@ -179,23 +179,9 @@
 
 </div>
 
-### Proficiency Matrix
-
-<div align="center">
-
-| Technology Domain | Skill Level | Experience | Leaning Path |
-|:------------------|:-----------:|:----------:|:-------------:|
-| **AWS Cloud Services** | ![Expert](https://img.shields.io/badge/Expert-90%25-28A745?style=flat) | Production | AWS re/Start |
-| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 1+ Years | Self-taught |
-| **Docker & Kubernetes** | ![Advanced](https://img.shields.io/badge/Advanced-85%25-2563EB?style=flat) | Real Projects | Hands-on |
-| **CI/CD Pipelines** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-2563EB?style=flat) | Live Systems | Jenkins + ArgoCD |
-| **Infrastructure as Code** | ![Proficient](https://img.shields.io/badge/Proficient-75%25-7C3AED?style=flat) | Project-based | Terraform + Ansible |
-
-</div>
-
 ---
 
-## Featured Projects
+## Projects
 
 <div align="center">
 
@@ -351,7 +337,7 @@
 
 ![Degree](https://img.shields.io/badge/Bachelor's_Degree-Computer_Science-28A745?style=for-the-badge&logo=university&logoColor=white)
 
-![Grade](https://img.shields.io/badge/Academic_Performance-Excellent_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Grade](https://img.shields.io/badge/Academic_Performance-Good_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
 
 </div>
 
@@ -464,7 +450,7 @@
 
 ---
 
-## Professional Network
+## Network
 
 <div align="center">
 
@@ -478,7 +464,7 @@
 <tr>
 <td width="25%" align="center">
 
-**Professional Connections**
+**Connections**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledhawil)
 
@@ -539,7 +525,7 @@ Open to new challenges
 **Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
 **Experience Level:** Fresh graduate with intensive hands-on training  
 **Availability:** Open to relocation and remote work opportunities
-[![Phone](https://img.shields.io/badge/Phone%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
+
 
 </div>
 
