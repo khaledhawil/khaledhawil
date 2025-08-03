@@ -26,7 +26,7 @@
 
 <div align="center">
 
-![Profile Separator](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2)
+![Profile  Separator](https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2)
 
 </div>
 
