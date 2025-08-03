@@ -2,8 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Khaled%20Hawil&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Linux%20Administrator&descAlignY=50&descSize=18" width="100%"/>
 </div>
 
+<!-- <div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=tr![Innovation](https://img.shields.io/badge/Technology_Innovation-2563EB?style=flat&logo=lightbulb&logoColor=white)
+![Collaboration](https://img.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
+
+</div> -->
+
+---
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&vCenter=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=khaledhawil&color=2563EB&style=for-the-badge&label=Profile+Views)
+
+### Ready to Contribute as Junior DevOps Engineer
+
+> *"Fast learner with a strong DevOps mindset, focused on building reliable, scalable systems and excelling in collaborative team environments."*
+
+**Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
+**Experience Level:** Fresh graduate with intensive hands-on training  
+**Availability:** Open to relocation and remote work opportunitiesth=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" />
 </div>
 
 
@@ -13,7 +30,7 @@
 
 </div>
 
-## Contact &  Links
+## Contact & Professional Links
 
 <div align="center">
 
@@ -60,7 +77,7 @@
 
 ![Status](https://img.shields.io/badge/Status-Available_for_Hire-28A745?style=for-the-badge&logo=circle&logoColor=white)
 ![Location](https://img.shields.io/badge/Location-Cairo,_Egypt-2563EB?style=for-the-badge&logo=map-pin&logoColor=white)
-![Experience](https://img.shields.io/badge/Level-Junior-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white)
+![Experience](https://img.shields.io/badge/Level-Junior_Professional-7C3AED?style=for-the-badge&logo=trending-up&logoColor=white)
 
 </div>
 
@@ -162,26 +179,22 @@
 
 <div align="center">
 
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
-
-</div>
-
-### Development & Scripting
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Prometheus](https://img.shields
+---
+r## Projects
+|
+|:------------------|:-----------:|:----------:|:-------------:|
+| **AWS Cloud Services** | ![Expert](https://img.shields.io/badge/Expert-90%25-28A745?style=flat) | Production | AWS re/Start |
+| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 1+ Years | Self-taught |
+| **Docker & Kubernetes** | ![Advanced](https://img.shields.io/badge/Advanced-85%25-2563EB?style=flat) | Real Projects | Hands-on |
+| **CI/CD Pipelines** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-2563EB?style=flat) | Live Systems | Jenkins + ArgoCD |
+| **Infrastructure as Code** | ![Proficient](https://img.shields.io/badge/Proficient-75%25-7C3AED?style=flat) | Project-based | Terraform + Ansible |
 
 </div>
 
 ---
 
-## Projects
+## Featured Projects
 
 <div align="center">
 
@@ -207,9 +220,8 @@
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=fl[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ITI-Project)
+?style=flat&logo=argo&logoColor=white)
 
 **Key Achievements:**
 - ![Infrastructure](https://img.shields.io/badge/Infrastructure-100%25_Automated-28A745?style=flat-square) Complete AWS infrastructure automation
@@ -219,7 +231,7 @@
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ITI-Project)
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ecommerce-devops-platform)
 
 </div>
 
@@ -273,9 +285,8 @@
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
-![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
+![Docker](https://img.shi[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/Full-DevOps-Project-islamic-app)
+ivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
 
 **Key Achievements:**
 - ![Frontend](https://img.shields.io/badge/Frontend-React_SPA-61DAFB?style=flat-square) Modern React application
@@ -285,7 +296,7 @@
 
 <div align="center">
 
-[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/Full-DevOps-Project-islamic-app)
+[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/islamic-app-devops)
 
 </div>
 
@@ -320,10 +331,8 @@
 **Information Technology Institute (ITI)**
 
 ![Training](https://img.shields.io/badge/Training_Duration-360%2B_Hours-2563EB?style=flat&logo=clock&logoColor=white)
-![Completion](https://img.shields.io/badge/Status-Successfully_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
-
-**Program Highlights:**
-- ![AWS](https://img.shields.io/badge/AWS-Cloud_Services_Mastery-FF9900?style=flat-square) Comprehensive AWS training
+![Completion](https://img.shields.io/badge/Status-Successfully_Completed-28A745?style=fl![Grade](https://img.shields.io/badge/Academic_Performance-Good_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+900?style=flat-square) Comprehensive AWS training
 - ![DevOps](https://img.shields.io/badge/DevOps-Methodologies_%26_Best_Practices-0066CC?style=flat-square) Industry methodologies
 - ![Hands-on](https://img.shields.io/badge/Experience-Real_World_Projects-28A745?style=flat-square) Practical implementation
 - ![Certification](https://img.shields.io/badge/Achievement-Industry_Recognition-FFD700?style=flat-square) Professional validation
@@ -337,7 +346,7 @@
 
 ![Degree](https://img.shields.io/badge/Bachelor's_Degree-Computer_Science-28A745?style=for-the-badge&logo=university&logoColor=white)
 
-![Grade](https://img.shields.io/badge/Academic_Performance-Good_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
+![Grade](https://img.shields.io/badge/Academic_Performance-Excellent_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
 
 </div>
 
@@ -427,20 +436,18 @@
 
 ![Leadership](https://img.shields.io/badge/Role-Technical_Leadership-7C3AED?style=flat-square)
 ![Mentoring](https://img.shields.io/badge/Impact-Team_Mentoring-FF6B35?style=flat-square)
-![Architecture](https://img.shields.io/badge/Focus-Cloud_Architecture-2563EB?style=flat-square)
-![Innovation](https://img.shields.io/badge/Drive-DevOps_Innovation-DC2626?style=flat-square)
-
-</td>
-<td width="33%" align="center">
+![Architecture](https://img.shields.io/b## Network
+cture-2563EB?style=flat![Network](https://img.shields.io/badge/Professional_Networking-Open_to_Connect-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)
+>
 
 ### Long Term (2028+)
 
-![Vision](https://img.shields.io/badge/Vision-Technical_Leadership-28A745?style=for-the-badge&logo=crown&logoColor=white)
-
-**Leadership Aspirations:**
+![Vision](https://img.shields.io/badge/Vision-Technical_Leadership-28A745?style=for-the-badge&logo=crown&logoColor=wh**Connections**
+s:**
 
 ![Director](https://img.shields.io/badge/Position-DevOps_Team_Lead-28A745?style=flat-square)
-![Architect](https://img.shields.io/badge/Role-Solutions_Architect-0066CC?style=flat-square)
+![Architect](https://img.shields.io/badge/Role-SolConnect for professional networking
+quare)
 ![Influence](https://img.shields.io/badge/Impact-Industry_Thought_Leader-7C3AED?style=flat-square)
 ![Innovation](https://img.shields.io/badge/Drive-Technology_Innovation-FF6B35?style=flat-square)
 
@@ -450,7 +457,7 @@
 
 ---
 
-## Network
+## Professional Network
 
 <div align="center">
 
@@ -464,7 +471,7 @@
 <tr>
 <td width="25%" align="center">
 
-**Connections**
+**Professional Connections**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/khaledhawil)
 
@@ -508,8 +515,8 @@ Open to new challenges
 ![DevOps](https://img.shields.io/badge/DevOps_Consulting-4ECDC4?style=flat&logo=infinity&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Migration-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Mentoring](https://img.shields.io/badge/Knowledge_Sharing-7C3AED?style=flat&logo=graduation-cap&logoColor=white)
-![Innovation](https://img.shields.io/badge/Technology_Innovation-2563EB?style=flat&logo=lightbulb&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
+![Innovatio
+mg.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
 
 </div>
 
@@ -525,7 +532,7 @@ Open to new challenges
 **Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
 **Experience Level:** Fresh graduate with intensive hands-on training  
 **Availability:** Open to relocation and remote work opportunities
-
+[![Phone](https://img.shields.io/badge/Phone%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
 
 </div>
 
