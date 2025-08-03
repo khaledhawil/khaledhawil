@@ -2,11 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=320&section=header&text=Khaled%20Hawil&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=30&desc=DevOps%20Engineer%20%7C%20Cloud%20Infrastructure%20%7C%20Linux%20Administrator&descAlignY=50&descSize=18" width="100%"/>
 </div>
 
-<!-- <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=tr![Innovation](https://img.shields.io/badge/Technology_Innovation-2563EB?style=flat&logo=lightbulb&logoColor=white)
-![Collaboration](https://img.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
-
-</div> -->
+<!-- Dynamic typing animation - commented out for performance
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=600&size=30&duration=2500&pause=800&color=0891B2&center=true&width=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" />
+</div>
+-->
 
 ---
 
@@ -19,8 +19,8 @@
 > *"Fast learner with a strong DevOps mindset, focused on building reliable, scalable systems and excelling in collaborative team environments."*
 
 **Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
-**Experience Level:** Fresh graduate with intensive hands-on training  
-**Availability:** Open to relocation and remote work opportunitiesth=1200&lines=DevOps+%26+Cloud+Engineer;AWS+Infrastructure;Linux+Systems+Admin;" />
+**Experience Level:** Professional with system administration background  
+**Availability:** Open to relocation and remote work opportunities
 </div>
 
 
@@ -179,13 +179,20 @@
 
 <div align="center">
 
-![Prometheus](https://img.shields
----
-r## Projects
-|
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=for-the-badge&logo=trivy&logoColor=white)
+
+</div>
+
+### Skills Proficiency
+
+<div align="center">
+
+| **Technology Domain** | **Proficiency** | **Experience** | **Certification** |
 |:------------------|:-----------:|:----------:|:-------------:|
 | **AWS Cloud Services** | ![Expert](https://img.shields.io/badge/Expert-90%25-28A745?style=flat) | Production | AWS re/Start |
-| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 1+ Years | Self-taught |
+| **Linux Administration** | ![Expert](https://img.shields.io/badge/Expert-95%25-28A745?style=flat) | 2+ Years | Professional |
 | **Docker & Kubernetes** | ![Advanced](https://img.shields.io/badge/Advanced-85%25-2563EB?style=flat) | Real Projects | Hands-on |
 | **CI/CD Pipelines** | ![Advanced](https://img.shields.io/badge/Advanced-80%25-2563EB?style=flat) | Live Systems | Jenkins + ArgoCD |
 | **Infrastructure as Code** | ![Proficient](https://img.shields.io/badge/Proficient-75%25-7C3AED?style=flat) | Project-based | Terraform + Ansible |
@@ -220,8 +227,9 @@ r## Projects
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=fl[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ITI-Project)
-?style=flat&logo=argo&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 **Key Achievements:**
 - ![Infrastructure](https://img.shields.io/badge/Infrastructure-100%25_Automated-28A745?style=flat-square) Complete AWS infrastructure automation
@@ -285,8 +293,9 @@ r## Projects
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-![Docker](https://img.shi[![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/Full-DevOps-Project-islamic-app)
-ivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=white)
 
 **Key Achievements:**
 - ![Frontend](https://img.shields.io/badge/Frontend-React_SPA-61DAFB?style=flat-square) Modern React application
@@ -299,6 +308,55 @@ ivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=w
 [![View Project](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/islamic-app-devops)
 
 </div>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Professional Experience
+
+<div align="center">
+
+![Experience](https://img.shields.io/badge/Professional_Experience-System_Administration-0066CC?style=for-the-badge&logo=briefcase&logoColor=white)
+
+</div>
+
+<table>
+<tr>
+<td width="100%">
+
+### System Administrator | Alkhawarizmi.ai
+
+<div align="center">
+
+![Company](https://img.shields.io/badge/Company-Alkhawarizmi.ai-2563EB?style=for-the-badge&logo=artificial-intelligence&logoColor=white)
+![Duration](https://img.shields.io/badge/Duration-Professional_Experience-28A745?style=for-the-badge&logo=calendar&logoColor=white)
+
+</div>
+
+**AI Technology Company - System Administration Role**
+
+**Key Responsibilities & Achievements:**
+
+- ![Infrastructure](https://img.shields.io/badge/Infrastructure-Server_Management-2563EB?style=flat-square) Linux server administration and maintenance
+- ![Monitoring](https://img.shields.io/badge/Monitoring-System_Performance-28A745?style=flat-square) System performance monitoring and optimization
+- ![Security](https://img.shields.io/badge/Security-Access_Control-DC2626?style=flat-square) User access management and security protocols
+- ![Automation](https://img.shields.io/badge/Automation-Task_Automation-FF6B35?style=flat-square) Automated routine administrative tasks
+- ![Support](https://img.shields.io/badge/Support-Technical_Support-7C3AED?style=flat-square) IT infrastructure support for AI development teams
+- ![Backup](https://img.shields.io/badge/Backup-Data_Management-0066CC?style=flat-square) Backup strategies and disaster recovery planning
+
+**Technical Environment:**
+- **Operating Systems**: Linux distributions (Ubuntu, CentOS)
+- **Infrastructure**: On-premises and cloud hybrid environments
+- **Tools**: System monitoring tools, backup solutions, automation scripts
+- **Security**: Access control systems, security hardening practices
+
+**Impact & Results:**
+- ![Uptime](https://img.shields.io/badge/Achievement-99.9%25_System_Uptime-28A745?style=flat-square) Maintained high system availability
+- ![Efficiency](https://img.shields.io/badge/Improvement-40%25_Faster_Deployments-FF6B35?style=flat-square) Streamlined deployment processes
+- ![Security](https://img.shields.io/badge/Security-Zero_Incidents-DC2626?style=flat-square) Maintained robust security posture
 
 </td>
 </tr>
@@ -331,8 +389,10 @@ ivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=w
 **Information Technology Institute (ITI)**
 
 ![Training](https://img.shields.io/badge/Training_Duration-360%2B_Hours-2563EB?style=flat&logo=clock&logoColor=white)
-![Completion](https://img.shields.io/badge/Status-Successfully_Completed-28A745?style=fl![Grade](https://img.shields.io/badge/Academic_Performance-Good_Grade-FFD700?style=for-the-badge&logo=trophy&logoColor=black)
-900?style=flat-square) Comprehensive AWS training
+![Completion](https://img.shields.io/badge/Status-Successfully_Completed-28A745?style=flat&logo=check-circle&logoColor=white)
+
+**Program Highlights:**
+- ![AWS](https://img.shields.io/badge/AWS-Comprehensive_Cloud_Training-FF9900?style=flat-square) Comprehensive AWS training
 - ![DevOps](https://img.shields.io/badge/DevOps-Methodologies_%26_Best_Practices-0066CC?style=flat-square) Industry methodologies
 - ![Hands-on](https://img.shields.io/badge/Experience-Real_World_Projects-28A745?style=flat-square) Practical implementation
 - ![Certification](https://img.shields.io/badge/Achievement-Industry_Recognition-FFD700?style=flat-square) Professional validation
@@ -436,18 +496,20 @@ ivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=trivy&logoColor=w
 
 ![Leadership](https://img.shields.io/badge/Role-Technical_Leadership-7C3AED?style=flat-square)
 ![Mentoring](https://img.shields.io/badge/Impact-Team_Mentoring-FF6B35?style=flat-square)
-![Architecture](https://img.shields.io/b## Network
-cture-2563EB?style=flat![Network](https://img.shields.io/badge/Professional_Networking-Open_to_Connect-4ECDC4?style=for-the-badge&logo=handshake&logoColor=white)
->
+![Architecture](https://img.shields.io/badge/Role-Solution_Architecture-2563EB?style=flat-square)
+![Innovation](https://img.shields.io/badge/Focus-Technology_Innovation-FF6B35?style=flat-square)
+
+</td>
+<td width="33%" align="center">
 
 ### Long Term (2028+)
 
-![Vision](https://img.shields.io/badge/Vision-Technical_Leadership-28A745?style=for-the-badge&logo=crown&logoColor=wh**Connections**
-s:**
+![Vision](https://img.shields.io/badge/Vision-Technical_Leadership-28A745?style=for-the-badge&logo=crown&logoColor=white)
+
+**Aspirational Goals:**
 
 ![Director](https://img.shields.io/badge/Position-DevOps_Team_Lead-28A745?style=flat-square)
-![Architect](https://img.shields.io/badge/Role-SolConnect for professional networking
-quare)
+![Architect](https://img.shields.io/badge/Role-Solutions_Architect-2563EB?style=flat-square)
 ![Influence](https://img.shields.io/badge/Impact-Industry_Thought_Leader-7C3AED?style=flat-square)
 ![Innovation](https://img.shields.io/badge/Drive-Technology_Innovation-FF6B35?style=flat-square)
 
@@ -515,8 +577,8 @@ Open to new challenges
 ![DevOps](https://img.shields.io/badge/DevOps_Consulting-4ECDC4?style=flat&logo=infinity&logoColor=white)
 ![Cloud](https://img.shields.io/badge/Cloud_Migration-FF9900?style=flat&logo=amazon-aws&logoColor=white)
 ![Mentoring](https://img.shields.io/badge/Knowledge_Sharing-7C3AED?style=flat&logo=graduation-cap&logoColor=white)
-![Innovatio
-mg.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
+![Innovation](https://img.shields.io/badge/Technology_Innovation-FF6B35?style=flat&logo=lightbulb&logoColor=white)
+![OpenSource](https://img.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
 
 </div>
 
@@ -525,13 +587,15 @@ mg.shields.io/badge/Open_Source-28A745?style=flat&logo=github&logoColor=white)
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=khaledhawil&color=2563EB&style=for-the-badge&label=Profile+Views)
-### Ready to Contribute as Junior DevOps Engineer
 
-> *"Fast learner with a strong DevOps mindset, focused on building reliable, scalable systems and excelling in collaborative team environments."*
+### Ready to Contribute as DevOps Engineer
 
-**Current Status:** Seeking Junior DevOps/Cloud Engineer opportunities  
-**Experience Level:** Fresh graduate with intensive hands-on training  
+> *"Experienced system administrator with strong DevOps mindset, focused on building reliable, scalable systems and excelling in collaborative team environments."*
+
+**Current Status:** Seeking DevOps/Cloud Engineer opportunities  
+**Experience Level:** Professional with system administration and DevOps training  
 **Availability:** Open to relocation and remote work opportunities
+
 [![Phone](https://img.shields.io/badge/Phone%20Call-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201064349945)
 
 </div>
