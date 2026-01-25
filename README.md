@@ -270,22 +270,10 @@ React and Flask full-stack application with Kubernetes deployment and Jenkins CI
 | ![AWS](https://img.shields.io/badge/AWS_re/Start-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) | ITI | Mar 2025 – Jun 2025 |
 | ![DevOps](https://img.shields.io/badge/Cloud_DevOps_Diploma-2563EB?style=flat-square&logo=cloud&logoColor=white) | DolfinED | May 2024 – May 2025 |
 
-### Education
+## Education
 ![Degree](https://img.shields.io/badge/B.Sc._Computer_Science-28A745?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
 **Higher Institute of Management & IT (HIMIT)** | 2019 – 2023
-
-</div>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=khaledhawil&show_icons=true&theme=default&hide_border=true&bg_color=ffffff&title_color=2563EB&text_color=374151&icon_color=2563EB&count_private=true" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=khaledhawil&theme=default&hide_border=true&background=ffffff&stroke=2563EB&ring=2563EB&fire=FF6B35&currStreakLabel=2563EB" width="49%"/>
-
 </div>
 
 ---
@@ -294,7 +282,7 @@ React and Flask full-stack application with Kubernetes deployment and Jenkins CI
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=30&height=80&text=DevOps%20Philosophy&fontSize=26&fontAlign=50&fontAlignY=50&fontColor=FFFFFF" width="100%" />
 
-### Professional DevOps Principles
+
 
 **Core DevOps Values:**
 
