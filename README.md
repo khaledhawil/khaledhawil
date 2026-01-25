@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=280&section=header&text=Khaled%20Abd-Elhay%20Hawil&fontSize=45&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20%26%20Cloud%20Engineer&descAlignY=55&descSize=20" alt="Header" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2e7d32,100:1565c0&height=280&section=header&text=Khaled%20Hawil&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20|%20Cloud%20Infrastructure%20|%20Linux%20Administrator&descAlignY=55&descSize=18" alt="Header"/>
 </div>
 
 <div align="center">
@@ -152,10 +152,12 @@ Production-ready microservices application on Kubernetes with complete GitOps au
 
 **Key Achievements:**
 
-- ✅ Built production-ready microservices on Kubernetes (RKE2)
-- ✅ Implemented GitOps continuous delivery using Flux CD
-- ✅ Integrated CI/CD automation and monitoring
-- ✅ Configured autoscaling for production workloads
+- Built production-ready microservices on Kubernetes (RKE2)
+- Implemented GitOps continuous delivery using Flux CD
+- Integrated CI/CD automation and monitoring
+- Configured autoscaling for production workloads
+
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/End-to-End-DevOps-AWS-Nodejs-Python-MySQL)
 
 </td>
 <td width="50%">
@@ -181,9 +183,11 @@ Enterprise-grade MERN stack e-commerce platform with complete DevOps automation 
 
 **Key Achievements:**
 
-- ✅ Provisioned AWS infrastructure using Terraform and Ansible
-- ✅ Built end-to-end CI/CD pipeline with Jenkins and ArgoCD
-- ✅ Integrated Trivy security scanning for release stability
+- Provisioned AWS infrastructure using Terraform and Ansible
+- Built end-to-end CI/CD pipeline with Jenkins and ArgoCD
+- Integrated Trivy security scanning for release stability
+
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/ITI-Project)
 
 </td>
 </tr>
@@ -210,9 +214,11 @@ Cloud-native microservices weather application with complete CI/CD and GitOps au
 
 **Key Achievements:**
 
-- ✅ Built GitHub Actions CI pipeline with automated testing
-- ✅ Implemented ArgoCD GitOps deployments on Kubernetes
-- ✅ Integrated container vulnerability scanning with Trivy
+- Built GitHub Actions CI pipeline with automated testing
+- Implemented ArgoCD GitOps deployments on Kubernetes
+- Integrated container vulnerability scanning with Trivy
+
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/WeatherApp-CI-CD-Pipeline)
 
 </td>
 <td width="50%">
@@ -236,10 +242,12 @@ React and Flask full-stack application with Kubernetes deployment and Jenkins CI
 
 **Key Achievements:**
 
-- ✅ Deployed React + Flask app with PostgreSQL on Kubernetes
-- ✅ Implemented Jenkins CI/CD pipeline
-- ✅ Adopted GitOps with ArgoCD for automated deployments
-- ✅ Integrated Trivy security scanning for compliance
+- Deployed React + Flask app with PostgreSQL on Kubernetes
+- Implemented Jenkins CI/CD pipeline
+- Adopted GitOps with ArgoCD for automated deployments
+- Integrated Trivy security scanning for compliance
+
+[![View Repository](https://img.shields.io/badge/View_Repository-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khaledhawil/Full-DevOps-Project-islamic-app)
 
 </td>
 </tr>
