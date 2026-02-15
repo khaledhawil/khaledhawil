@@ -10,7 +10,7 @@
 [![Resume](https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/khaledhawil/khaledhawil/raw/main/KhaledHawil-CV-DevOps.pdf)
 [![Phone](https://img.shields.io/badge/+20_150_390_6399-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201503906399)
 
-![Location](https://img.shields.io/badge/Giza,_Egypt-2563EB?style=flat&logo=google-maps&logoColor=white)
+![Location](https://img.shields.io/badge/Cairo,_Egypt-2563EB?style=flat&logo=google-maps&logoColor=white)
 ![Status](https://img.shields.io/badge/Open_to_Relocation-28A745?style=flat&logo=airplane&logoColor=white)
 
 ---
@@ -20,7 +20,7 @@
 
 > *"Driving operational excellence through automation and continuous improvement initiatives"*
 
-**Current Position:** System Administrator & DevOps Engineer at DIGINATION  
+**Current Position:** DevOps Engineer at DIGINATION  
 **Experience Level:** 1+ year of production environment expertise  
 **Availability:** Open to new opportunities and relocation
 
@@ -260,8 +260,9 @@ React and Flask full-stack application with Kubernetes deployment and Jenkins CI
 <div align="center">
 
 ### Certifications
-[![AWS CCP](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com)
-![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect-In_Progress-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+[![AWS SAA](https://img.shields.io/badge/AWS_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/c8c4de9f-84db-4de1-8b7b-5e07224d1008)
+[![AWS CCP](https://img.shields.io/badge/AWS_Certified_Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/57deae72-7900-430e-b8f8-ad9d949c5c89)
+[![AWS re/Start](https://img.shields.io/badge/AWS_re/Start_Graduate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://www.credly.com/badges/73d387e9-71b8-49eb-b91a-a2857e520587)
 ![CKA](https://img.shields.io/badge/Certified_Kubernetes_Administrator-In_Progress-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Training
